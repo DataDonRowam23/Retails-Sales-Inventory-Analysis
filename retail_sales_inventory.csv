@@ -1,0 +1,1501 @@
+Transaction_ID,Date,Store_Location,Product_Category,Product_Name,Quantity_Sold,Unit_Price,Discount,Revenue,Inventory_Level,Supplier,Customer_Segment
+TXN00000,2024-09-02,Mombasa,fashion,Until,2,,5,,,ABC Ltd,retail
+TXN00001,2024-07-08,Nakuru,electronics,Learn,,,15,,,Prime Supply,Wholesale
+TXN00002,2024-12-15,Kisumu,Fashion,Natural,13,,10,,814,XYZ Traders,Retail
+TXN00003,2025-03-14,Nairobi,fashion,Key,,1049.97,10,,,,Retail
+TXN00004,2025-01-12,Eldoret,Grocery,Country,30,,N/A,,861,ABC Ltd,Retail
+,2024-06-09,Kisumu,Electronics,Offer,30,,N/A,,979,,Wholesale
+,2024-08-19,Mombasa,Grocery,Drive,32,,,,307,ABC Ltd,VIP
+,2025-01-14,Mombasa,Grocery,North,,664.2,20,25657.61,,ABC Ltd,retail
+,2024-07-15,Nairobi,Home,True,,636.23,0,72339.6,,Prime Supply,retail
+TXN00009,2024-07-25,Nairobi,Home,Strategy,25,,,14596.65,865,,Retail
+,2025-02-11,Nakuru,Grocery,Around,33,,0,,,XYZ Traders,retail
+TXN00011,2024-10-12,Nairobi,Fashion,The,27,,,,810,Prime Supply,Wholesale
+TXN00012,2024-09-22,Mombasa,Groceries,Heavy,29,,N/A,3359.19,500,XYZ Traders,VIP
+TXN00013,2025-11-06,Mombasa,electronics,Begin,,1057.81,,94026.91,845,ABC Ltd,Retail
+TXN00014,2024-06-02,Kisumu,Grocery,Health,20,,5,5926.63,616,Prime Supply,Retail
+TXN00015,2025-02-07,Eldoret,Electronics,Nature,,,15,69449.43,690,ABC Ltd,retail
+TXN00016,2024-07-10,Mombasa,Electronics,Four,,,20,96575.43,831,ABC Ltd,Wholesale
+TXN00017,2024-09-24,Mombasa,electronics,Still,,,15,30448.93,378,Prime Supply,VIP
+,2025-11-12,Nakuru,Groceries,Another,,,20,,,,Wholesale
+,2025-08-23,Nairobi,fashion,Ago,34,,0,40251.88,,ABC Ltd,Retail
+TXN00020,2024-07-16,Nakuru,Groceries,Five,,,5,,577,XYZ Traders,Wholesale
+TXN00021,2025-11-07,Mombasa,Fashion,Information,37,,5,,,,retail
+TXN00022,2024-03-05,Eldoret,Electronics,Nice,,4834.51,N/A,64246.24,,ABC Ltd,VIP
+TXN00023,2025-02-07,Mombasa,Electronics,Alone,,2676.18,0,61835.71,,XYZ Traders,VIP
+,2025-08-10,Nairobi,Groceries,Then,28,,15,20239.65,,ABC Ltd,retail
+TXN00025,2024-02-09,Nairobi,fashion,Certain,,,N/A,73327.28,707,Prime Supply,retail
+TXN00026,2025-03-28,Mombasa,Electronics,Often,29,,10,28470.67,,ABC Ltd,retail
+TXN00027,2025-04-01,Mombasa,Grocery,Million,,,15,,,Prime Supply,retail
+,2024-01-04,Kisumu,Fashion,Beautiful,,,5,2033.58,,Prime Supply,Wholesale
+,2024-02-14,Nairobi,Grocery,Thousand,25,,N/A,,,,retail
+TXN00030,2025-08-06,Kisumu,Electronics,Anyone,,,15,,,Prime Supply,Wholesale
+TXN00031,2025-07-18,Kisumu,Grocery,For,33,,20,,253,ABC Ltd,Retail
+TXN00032,2025-03-18,Eldoret,Fashion,Structure,27,,,35633.6,,ABC Ltd,VIP
+,2024-08-14,Kisumu,Home,Provide,45,,20,,638,,VIP
+,2024-12-06,Mombasa,Groceries,Appear,,,20,55671.36,,,retail
+TXN00035,2025-06-07,Eldoret,Electronics,Stay,42,,,72429.47,,,retail
+,2025-05-25,Nakuru,Electronics,Tell,,,20,,910,Prime Supply,Wholesale
+TXN00037,2025-06-24,Mombasa,fashion,Moment,,,10,,,ABC Ltd,Wholesale
+,2024-12-16,Mombasa,Grocery,Hard,48,280.22,5,40575.59,315,XYZ Traders,VIP
+,2025-06-02,Mombasa,Fashion,Million,26,,5,29771.63,963,,Retail
+,2024-03-11,Nakuru,Grocery,Cause,,,0,,885,,retail
+TXN00041,2025-06-21,Kisumu,fashion,Chance,,,5,64963.68,388,Prime Supply,Wholesale
+,2024-05-14,Nakuru,fashion,Factor,17,,,,353,XYZ Traders,Retail
+TXN00043,2025-11-30,Eldoret,Fashion,Watch,,,0,78840.28,,Prime Supply,Retail
+,2025-05-04,Nairobi,Fashion,Site,,1139.5,N/A,,,ABC Ltd,Retail
+TXN00045,2024-12-08,Eldoret,Home,Yard,23,,15,,,XYZ Traders,Retail
+TXN00046,2024-02-19,Eldoret,fashion,Upon,18,,15,,832,,Retail
+,2024-06-18,Kisumu,Fashion,Ready,50,,10,96576.03,10,XYZ Traders,Wholesale
+TXN00048,2024-04-08,Kisumu,Grocery,Perform,,3916.24,20,,728,ABC Ltd,Wholesale
+TXN00049,2025-11-16,Nakuru,electronics,Your,,,5,44529.21,,Prime Supply,VIP
+,2024-08-07,Nakuru,Electronics,Company,,3071.63,15,,,,retail
+TXN00051,2025-12-05,Nairobi,Grocery,Indeed,33,,15,,,,Retail
+,2025-06-07,Kisumu,Fashion,Bill,,,N/A,57633.26,756,,Wholesale
+TXN00053,2025-02-11,Kisumu,Fashion,Seat,49,,10,,434,Prime Supply,Retail
+TXN00054,2025-06-30,Mombasa,Home,Example,39,,N/A,48023.79,,,VIP
+TXN00055,2024-03-28,Nakuru,electronics,Save,28,,0,29018.11,,Prime Supply,retail
+TXN00056,2025-08-17,Kisumu,Electronics,Need,4,,5,,,XYZ Traders,Retail
+,2024-06-22,Nairobi,Fashion,I,,,15,,310,,retail
+TXN00058,2025-08-28,Kisumu,Electronics,News,,651.61,10,,165,XYZ Traders,Retail
+TXN00059,2025-01-06,Mombasa,electronics,Forward,49,,,3832.1,,Prime Supply,VIP
+,2024-01-29,Kisumu,Electronics,Suggest,43,837.62,0,60366.92,,XYZ Traders,Wholesale
+TXN00061,2025-06-06,Eldoret,fashion,Firm,49,275.97,5,88431.83,503,XYZ Traders,Wholesale
+,2024-01-13,Eldoret,Groceries,Market,23,,0,,,,Retail
+TXN00063,2025-06-22,Nakuru,Fashion,Adult,,,15,,,Prime Supply,retail
+,2025-08-12,Nakuru,Fashion,Close,,,20,,829,Prime Supply,VIP
+,2025-05-09,Kisumu,Electronics,Technology,46,3926.49,5,43484.39,,ABC Ltd,VIP
+,2025-08-15,Nakuru,Home,Discuss,35,,10,72917.76,892,ABC Ltd,Wholesale
+TXN00067,2025-09-23,Eldoret,Fashion,Heavy,,,20,45802.61,,,retail
+,2024-07-30,Eldoret,Home,Put,24,,20,,937,,Wholesale
+,2025-12-06,Mombasa,fashion,Official,,3839.81,N/A,713.47,48,ABC Ltd,Retail
+TXN00070,2025-04-19,Mombasa,Home,Term,10,,0,,,Prime Supply,Wholesale
+,2025-01-22,Nakuru,Groceries,National,41,,10,,784,Prime Supply,retail
+TXN00072,2024-02-23,Kisumu,Electronics,Someone,,,,12715.41,,,VIP
+TXN00073,2025-10-25,Kisumu,fashion,Age,,4746.14,15,,,,Retail
+TXN00074,2024-08-27,Eldoret,Fashion,Offer,44,,5,36481.46,,,VIP
+,2024-12-19,Nairobi,Grocery,Probably,39,697.09,20,,928,Prime Supply,retail
+,2024-03-18,Mombasa,Groceries,Improve,,1765.3,N/A,,,,retail
+TXN00077,2025-11-24,Kisumu,Electronics,Carry,,2411.27,N/A,60965.67,,Prime Supply,VIP
+,2025-11-13,Nakuru,Groceries,Beat,22,2545.76,N/A,12204.07,,,Retail
+TXN00079,2024-10-08,Nakuru,Grocery,Give,,,10,,645,,retail
+TXN00080,2024-10-23,Mombasa,Electronics,Important,,,5,88597.18,,XYZ Traders,Wholesale
+,2025-03-17,Eldoret,Fashion,Significant,,,10,,40,,Wholesale
+TXN00082,2024-01-09,Nairobi,Home,Bring,49,,5,53193.35,,Prime Supply,retail
+TXN00083,2024-12-03,Kisumu,electronics,Be,42,,N/A,,,,Wholesale
+TXN00084,2025-03-20,Nairobi,fashion,Hope,35,3465.89,15,,241,XYZ Traders,retail
+TXN00085,2024-02-24,Mombasa,electronics,Yet,10,2334.96,5,,,XYZ Traders,retail
+TXN00086,2025-04-17,Eldoret,Grocery,Paper,,,10,2377.38,655,,retail
+TXN00087,2025-03-16,Kisumu,Electronics,Alone,8,,5,,294,ABC Ltd,Wholesale
+TXN00088,2024-02-21,Kisumu,Grocery,Kitchen,,3412.42,5,,19,Prime Supply,Retail
+,2025-02-16,Eldoret,Grocery,Idea,,,,50307.88,302,ABC Ltd,Wholesale
+TXN00090,2025-12-19,Nakuru,Groceries,Air,,,0,75184.94,,,Wholesale
+,2024-03-06,Eldoret,Fashion,Movie,,,20,,,,Retail
+TXN00092,2024-08-23,Nairobi,Grocery,Next,,,0,68588.15,,XYZ Traders,VIP
+TXN00093,2024-11-12,Kisumu,Fashion,Live,,,,21828.54,14,Prime Supply,VIP
+TXN00094,2025-08-30,Mombasa,electronics,Father,,,0,73962.51,,,VIP
+,2025-12-04,Nakuru,Electronics,Agency,,,0,,,,VIP
+TXN00096,2025-06-19,Eldoret,Groceries,Oil,,,0,,,ABC Ltd,Wholesale
+TXN00097,2025-02-13,Nakuru,Groceries,Arrive,2,271.9,10,29125.41,195,XYZ Traders,retail
+,2024-01-09,Nakuru,Grocery,Notice,,,N/A,,,,retail
+TXN00099,2025-01-25,Mombasa,Electronics,Manager,,,N/A,,6,Prime Supply,VIP
+,2024-01-21,Mombasa,Grocery,Approach,,341.5,20,,,XYZ Traders,Wholesale
+TXN00101,2025-11-24,Nakuru,Home,Interview,,,10,39849.68,,XYZ Traders,VIP
+TXN00102,2024-09-09,Kisumu,Electronics,Source,,,15,65182.14,,Prime Supply,Wholesale
+TXN00103,2024-04-18,Kisumu,Grocery,Measure,7,,20,63315.75,,,retail
+TXN00104,2025-10-30,Mombasa,electronics,Officer,29,2564.28,,,329,Prime Supply,Wholesale
+TXN00105,2025-11-17,Mombasa,Grocery,Prepare,,,10,,,XYZ Traders,Wholesale
+,2024-03-06,Mombasa,electronics,Baby,46,2257.87,5,,341,,Wholesale
+TXN00107,2024-09-20,Nairobi,Fashion,Pattern,49,,N/A,82243.11,977,ABC Ltd,VIP
+TXN00108,2024-12-18,Nairobi,fashion,Career,9,612.15,10,,642,Prime Supply,retail
+,2024-10-11,Mombasa,fashion,Theory,,4497.7,15,,87,ABC Ltd,VIP
+TXN00110,2025-09-26,Eldoret,Groceries,Throughout,13,4827.64,5,,,XYZ Traders,VIP
+,2024-05-27,Mombasa,Home,Think,38,2973.86,,29325.95,182,XYZ Traders,Wholesale
+TXN00112,2025-12-25,Nakuru,electronics,My,36,,15,,,,VIP
+,2024-06-12,Nakuru,fashion,Least,35,,0,70607.43,,,VIP
+TXN00114,2025-04-11,Nairobi,Electronics,Truth,28,3173.5,15,13983.55,929,XYZ Traders,retail
+,2025-01-30,Mombasa,Fashion,Wish,8,,0,97282.06,,Prime Supply,Retail
+TXN00116,2024-04-09,Mombasa,fashion,Support,29,,0,,490,ABC Ltd,retail
+,2024-08-06,Kisumu,fashion,Story,,,15,,455,,VIP
+TXN00118,2024-08-26,Eldoret,Grocery,Theory,,,20,,,ABC Ltd,Wholesale
+TXN00119,2024-10-24,Nakuru,Grocery,Adult,21,403.37,10,,26,ABC Ltd,retail
+TXN00120,2024-10-18,Mombasa,Grocery,Position,,,5,,,Prime Supply,Wholesale
+TXN00121,2025-06-15,Nairobi,Electronics,Increase,28,,10,87696.63,490,,Retail
+TXN00122,2025-11-19,Mombasa,electronics,Learn,22,,5,37029.33,676,,Wholesale
+,2025-04-01,Nakuru,fashion,Material,,,10,85772.53,245,Prime Supply,Wholesale
+TXN00124,2025-04-21,Kisumu,Grocery,Kind,,,0,97840.88,,ABC Ltd,retail
+,2025-05-11,Mombasa,Fashion,Language,,,10,47689.75,,,retail
+TXN00126,2024-01-10,Kisumu,electronics,Road,,877.57,0,83742.76,204,,Retail
+TXN00127,2024-09-12,Nairobi,Grocery,Yard,,1896.67,10,,6,ABC Ltd,Retail
+,2024-07-21,Eldoret,Groceries,Project,,2117.79,15,20988.93,,,Wholesale
+TXN00129,2025-05-17,Eldoret,Groceries,Decade,14,,N/A,,,XYZ Traders,retail
+TXN00130,2025-05-22,Mombasa,Home,Team,,,,86460.51,844,,Wholesale
+TXN00131,2025-09-02,Kisumu,Fashion,Deep,9,4318.06,,44557.58,,ABC Ltd,retail
+TXN00132,2024-09-29,Kisumu,Groceries,Public,,,10,83390.67,458,Prime Supply,Wholesale
+TXN00133,2025-03-21,Eldoret,fashion,Share,12,1338.15,,7367.89,,Prime Supply,Retail
+TXN00134,2024-02-08,Eldoret,electronics,Power,28,,20,,,XYZ Traders,retail
+,2025-09-06,Kisumu,Grocery,Audience,,,5,19295.67,450,Prime Supply,VIP
+,2025-05-11,Eldoret,Fashion,Way,40,,0,,,XYZ Traders,Retail
+,2025-03-04,Nairobi,Groceries,Great,,3750.3,20,86784.5,468,,Wholesale
+TXN00138,2025-03-04,Nairobi,electronics,A,7,,10,,691,Prime Supply,VIP
+TXN00139,2024-12-27,Eldoret,Grocery,Sit,,,20,63141.33,207,,retail
+,2024-08-08,Mombasa,electronics,Reality,,,10,,157,XYZ Traders,Wholesale
+TXN00141,2024-10-15,Nakuru,electronics,Among,6,,,8174.11,,,retail
+TXN00142,2024-04-16,Mombasa,electronics,Him,3,3331.16,,2592.57,880,XYZ Traders,retail
+,2025-10-05,Mombasa,Electronics,Brother,50,,N/A,,,XYZ Traders,Retail
+TXN00144,2024-07-23,Mombasa,electronics,Put,15,,20,,,,VIP
+,2024-11-05,Nairobi,Grocery,Design,,4142.02,0,,580,,Retail
+TXN00146,2024-12-09,Nakuru,Electronics,Analysis,10,4763.66,10,24721.62,,Prime Supply,Wholesale
+TXN00147,2024-06-03,Kisumu,Electronics,Light,6,,0,,726,,Retail
+TXN00148,2025-02-27,Nairobi,Electronics,House,26,,0,,138,XYZ Traders,Wholesale
+TXN00149,2024-04-15,Kisumu,Home,General,,286.84,10,75503.14,,Prime Supply,retail
+,2025-12-19,Nairobi,Groceries,Various,50,,,18106.89,105,,VIP
+,2025-01-29,Mombasa,Electronics,Suggest,2,2206.97,5,49548.42,,,retail
+TXN00152,2024-07-30,Mombasa,Groceries,Fall,,,5,8228.13,,Prime Supply,retail
+,2025-09-01,Mombasa,Grocery,Measure,,,15,,726,,retail
+TXN00154,2025-09-03,Nakuru,Electronics,Series,29,,,48199.44,,Prime Supply,VIP
+TXN00155,2024-07-26,Kisumu,Groceries,Memory,11,3157.74,20,73699.13,,Prime Supply,retail
+TXN00156,2024-09-10,Eldoret,fashion,Goal,37,,20,97102.07,,,retail
+,2024-04-25,Eldoret,Fashion,Glass,12,3638.92,20,71865.9,,,Retail
+TXN00158,2025-10-21,Nakuru,Home,Down,15,4550.49,5,18164.32,,,Wholesale
+,2025-12-03,Nakuru,Groceries,Teacher,,,0,,139,XYZ Traders,Retail
+,2025-04-17,Nairobi,Grocery,Management,,448.31,10,,182,,Retail
+TXN00161,2025-06-06,Kisumu,fashion,Box,13,1188.85,0,39066.08,,,retail
+TXN00162,2024-07-12,Eldoret,Home,State,22,4175.72,10,,425,Prime Supply,Wholesale
+TXN00163,2025-04-20,Eldoret,Home,Effort,,,5,,,Prime Supply,retail
+,2024-05-03,Kisumu,Electronics,Too,48,,N/A,,,XYZ Traders,Retail
+TXN00165,2025-02-18,Kisumu,Grocery,Seat,,,N/A,,290,ABC Ltd,VIP
+TXN00166,2025-06-06,Nakuru,Home,Character,10,,0,,,ABC Ltd,Retail
+TXN00167,2025-10-23,Nakuru,fashion,Picture,,,0,,,,VIP
+,2025-07-22,Kisumu,Groceries,Pressure,47,881.08,5,59198.21,56,,Retail
+,2024-04-02,Kisumu,Electronics,Treat,35,3388.15,,,,,Retail
+TXN00170,2024-11-07,Nakuru,Fashion,Manager,,,5,18139.23,,Prime Supply,Retail
+TXN00171,2025-07-29,Mombasa,Fashion,Watch,36,,5,27877.52,493,,Wholesale
+TXN00172,2024-03-09,Mombasa,Grocery,Upon,,,N/A,98321.05,67,,VIP
+TXN00173,2024-11-30,Nairobi,Grocery,Western,43,743.36,5,45263.18,828,Prime Supply,VIP
+,2024-07-28,Nakuru,Home,Speech,,514.46,15,26749.06,536,,Retail
+,2025-04-09,Eldoret,Fashion,Couple,14,,10,,452,,Retail
+,2024-11-13,Kisumu,Groceries,Worker,,,,,,XYZ Traders,Wholesale
+TXN00177,2025-12-15,Nakuru,Grocery,Education,33,,10,,,XYZ Traders,Retail
+,2025-09-21,Eldoret,Home,Daughter,37,,10,3922.9,,,retail
+TXN00179,2024-09-09,Kisumu,electronics,Sound,42,3332.36,N/A,63266.5,,ABC Ltd,VIP
+TXN00180,2025-06-28,Nakuru,Home,Congress,22,4802.26,15,94154.87,,Prime Supply,Retail
+,2025-05-24,Kisumu,Electronics,Director,35,2492.2,10,,826,XYZ Traders,Wholesale
+TXN00182,2025-12-14,Nairobi,Groceries,Could,,509.72,5,20298.94,,Prime Supply,retail
+TXN00183,2025-12-17,Nairobi,Fashion,Computer,,,N/A,,208,,VIP
+TXN00184,2024-10-11,Mombasa,Home,Seven,9,,,16405.27,,ABC Ltd,VIP
+,2024-09-23,Mombasa,Home,Ever,7,,,,,Prime Supply,retail
+TXN00186,2025-04-05,Nairobi,fashion,Play,43,,15,,,,Retail
+,2025-04-05,Eldoret,Electronics,Social,16,,0,30551.96,809,Prime Supply,VIP
+TXN00188,2024-08-26,Nakuru,Fashion,Scientist,2,,15,,927,,VIP
+TXN00189,2024-06-06,Nakuru,Electronics,Occur,,,N/A,,,,Wholesale
+TXN00190,2024-05-22,Nakuru,fashion,Environment,,2933.65,20,52665.41,,,VIP
+,2025-09-11,Kisumu,Electronics,Generation,,,5,55526.6,,Prime Supply,Retail
+TXN00192,2025-09-03,Eldoret,Grocery,Eight,,,0,83444.16,977,ABC Ltd,VIP
+,2025-02-24,Mombasa,fashion,Own,42,276.11,20,53909.59,714,Prime Supply,Retail
+TXN00194,2025-04-24,Nairobi,Grocery,Actually,,3277.51,N/A,,14,XYZ Traders,VIP
+TXN00195,2025-01-16,Nairobi,fashion,Hope,30,393.29,20,,,Prime Supply,Wholesale
+TXN00196,2025-06-18,Eldoret,fashion,These,,3026.23,20,,,ABC Ltd,Wholesale
+TXN00197,2024-07-04,Nakuru,Grocery,Than,29,,10,73592.28,662,ABC Ltd,Retail
+TXN00198,2024-05-04,Nakuru,Grocery,Instead,,,,,,,Wholesale
+TXN00199,2024-01-02,Nairobi,electronics,Floor,42,2838.96,N/A,62170.3,,,VIP
+TXN00200,2024-05-19,Nakuru,Fashion,Southern,,4734.14,0,,706,,retail
+TXN00201,2025-08-15,Nairobi,Fashion,Industry,29,,10,,,ABC Ltd,Retail
+TXN00202,2024-04-13,Nakuru,Grocery,Owner,22,,15,,89,,retail
+,2024-05-25,Nakuru,fashion,Artist,3,,15,22068.88,998,ABC Ltd,retail
+TXN00204,2024-02-04,Mombasa,Fashion,Kid,,2252.4,,,196,XYZ Traders,VIP
+TXN00205,2024-11-11,Mombasa,Home,State,,648.62,5,66858.9,,,Wholesale
+TXN00206,2024-09-09,Nakuru,Electronics,Somebody,48,,5,,,XYZ Traders,Wholesale
+TXN00207,2025-07-15,Eldoret,Fashion,Race,,,,74952.76,,XYZ Traders,Retail
+,2025-08-06,Nairobi,fashion,Discover,8,,20,91604.38,690,ABC Ltd,Wholesale
+TXN00209,2025-11-12,Mombasa,Electronics,Opportunity,,2593.29,N/A,3266.87,,Prime Supply,retail
+,2025-10-27,Eldoret,fashion,Community,,,N/A,55527.36,,,retail
+TXN00211,2024-01-22,Kisumu,Electronics,Write,,,20,,67,ABC Ltd,Wholesale
+TXN00212,2025-02-24,Nairobi,Electronics,Value,,,5,78096.19,,,Wholesale
+TXN00213,2024-05-04,Kisumu,Home,Cup,,,0,13005.48,493,,Wholesale
+TXN00214,2024-09-01,Mombasa,Home,Human,,3814.38,N/A,,,XYZ Traders,Retail
+TXN00215,2024-12-24,Kisumu,Electronics,South,15,2438.44,15,27306.21,272,XYZ Traders,VIP
+TXN00216,2024-02-12,Nairobi,Electronics,Them,,,5,,478,ABC Ltd,retail
+TXN00217,2024-01-16,Kisumu,Groceries,Account,45,2764.56,N/A,,,,VIP
+TXN00218,2024-05-03,Nakuru,Home,See,,,N/A,,,,VIP
+,2024-11-02,Nakuru,fashion,Student,37,3056.29,20,,,ABC Ltd,retail
+TXN00220,2025-10-20,Eldoret,Electronics,Occur,38,4328.65,0,,,,Retail
+,2025-07-29,Nakuru,Home,Voice,12,,,96172.64,254,XYZ Traders,Retail
+TXN00222,2025-05-20,Kisumu,Fashion,Discover,29,,15,,411,ABC Ltd,Wholesale
+TXN00223,2025-10-20,Kisumu,Grocery,Less,,,N/A,,24,Prime Supply,VIP
+,2024-11-25,Kisumu,Groceries,Partner,3,,20,,378,,Wholesale
+TXN00225,2025-10-02,Eldoret,fashion,Show,,,15,,,,Wholesale
+,2024-03-29,Nairobi,electronics,Mouth,4,4398.06,5,635.76,495,XYZ Traders,VIP
+TXN00227,2025-04-02,Eldoret,Groceries,North,,,20,54495.43,371,,VIP
+,2024-01-22,Mombasa,fashion,Still,,,10,,461,,retail
+,2025-02-11,Kisumu,Electronics,Property,50,,15,,985,XYZ Traders,Retail
+TXN00230,2025-12-22,Nakuru,Fashion,Sit,50,3579.51,N/A,,793,,Wholesale
+TXN00231,2024-12-22,Kisumu,Home,Style,,1283.48,N/A,43902.85,533,Prime Supply,VIP
+TXN00232,2025-09-06,Nairobi,Groceries,Let,5,,N/A,,,XYZ Traders,Retail
+,2024-09-28,Nakuru,electronics,Store,,,20,,,XYZ Traders,Retail
+,2025-03-05,Mombasa,Fashion,Around,,,20,,663,Prime Supply,retail
+TXN00235,2024-04-16,Nairobi,Fashion,Certain,,,5,,,XYZ Traders,Wholesale
+,2024-08-29,Eldoret,Grocery,Agent,,,0,75839.51,,Prime Supply,Retail
+,2024-11-01,Nakuru,Fashion,Color,,,N/A,69506.92,124,,Wholesale
+TXN00238,2025-03-06,Nairobi,Grocery,Church,,2920.06,10,64831.96,851,ABC Ltd,retail
+TXN00239,2024-08-03,Eldoret,fashion,Environmental,,,5,,496,,Retail
+TXN00240,2025-08-15,Kisumu,fashion,Cut,39,,5,,161,,Wholesale
+TXN00241,2024-12-09,Mombasa,fashion,Community,,,15,56976.82,812,Prime Supply,retail
+,2025-04-08,Eldoret,Groceries,Their,,3947.76,20,93246.27,,ABC Ltd,retail
+,2025-05-09,Nairobi,fashion,Ability,47,4233.14,10,,202,Prime Supply,VIP
+TXN00244,2025-07-20,Kisumu,Fashion,Check,,2246.1,N/A,,211,,Wholesale
+TXN00245,2025-03-10,Nakuru,Home,Study,,,15,,,Prime Supply,Retail
+,2024-05-26,Nakuru,fashion,Trade,,,N/A,,,Prime Supply,Wholesale
+TXN00247,2024-07-27,Kisumu,fashion,Nothing,,2490.12,10,38980.68,,,retail
+TXN00248,2024-08-08,Nairobi,Groceries,Interview,,,10,5443.25,,,Wholesale
+TXN00249,2025-02-18,Kisumu,fashion,Which,8,,5,,165,XYZ Traders,VIP
+TXN00250,2024-06-06,Kisumu,Electronics,Tax,8,2170.31,N/A,,696,,Retail
+TXN00251,2024-04-29,Nakuru,Home,Trouble,,,,52540.81,,Prime Supply,Wholesale
+,2025-04-07,Eldoret,Groceries,Focus,,,,35418.16,2,XYZ Traders,VIP
+TXN00253,2025-01-23,Kisumu,fashion,Share,13,2979.96,15,,,ABC Ltd,retail
+TXN00254,2024-01-24,Eldoret,Grocery,Scientist,,984.64,,75944.85,,,VIP
+TXN00255,2024-05-23,Eldoret,Grocery,Drop,,,10,78851.9,,Prime Supply,Wholesale
+TXN00256,2025-05-18,Mombasa,fashion,Conference,28,1348.96,,49697.24,,ABC Ltd,VIP
+TXN00257,2024-02-06,Kisumu,Fashion,Real,,,10,,,Prime Supply,Wholesale
+,2024-04-19,Eldoret,Electronics,My,49,,5,91295.7,,,VIP
+TXN00259,2024-12-30,Nakuru,Grocery,Knowledge,5,,0,38121.26,,ABC Ltd,retail
+TXN00260,2024-06-10,Eldoret,electronics,Successful,14,4913.17,5,94532.18,,XYZ Traders,retail
+TXN00261,2025-02-11,Mombasa,Grocery,Return,35,1344.68,0,5582.52,910,,retail
+,2025-09-21,Nairobi,Groceries,Force,17,2954.83,15,94154.29,575,,retail
+TXN00263,2025-09-18,Nakuru,fashion,Traditional,50,,5,,,,VIP
+TXN00264,2024-07-04,Nakuru,Fashion,Local,,,0,,,,retail
+,2025-11-05,Nairobi,fashion,Available,,,0,,,Prime Supply,Retail
+TXN00266,2024-07-02,Kisumu,Grocery,Determine,7,3967.31,N/A,28723.95,624,,VIP
+,2024-07-20,Nairobi,Electronics,Girl,34,,,,284,,Retail
+TXN00268,2024-09-13,Nairobi,fashion,Employee,,,5,,,,Wholesale
+TXN00269,2025-06-03,Kisumu,electronics,Statement,37,3829.76,15,,827,,VIP
+,2025-06-09,Mombasa,Home,Yes,,,,,230,,VIP
+,2025-12-10,Kisumu,Groceries,Place,30,,10,83342.34,,Prime Supply,VIP
+TXN00272,2025-11-26,Nairobi,Groceries,Pressure,38,,10,,,,Wholesale
+,2025-05-30,Nairobi,Grocery,Per,12,,20,52061.51,409,Prime Supply,Wholesale
+,2025-11-05,Eldoret,Fashion,Turn,25,,N/A,,,ABC Ltd,retail
+TXN00275,2025-05-05,Eldoret,Grocery,Art,31,4456.33,10,,498,XYZ Traders,retail
+,2025-12-30,Nakuru,Groceries,Anything,,,15,79534.05,518,Prime Supply,Retail
+TXN00277,2024-05-15,Nairobi,Grocery,Per,,1960.65,15,45749.4,219,,VIP
+TXN00278,2025-03-30,Mombasa,Groceries,Church,,,20,,926,Prime Supply,Wholesale
+,2025-01-05,Mombasa,Fashion,Price,8,,N/A,,554,,Retail
+,2025-11-10,Nakuru,Home,Concern,42,,15,,,ABC Ltd,Wholesale
+TXN00281,2025-03-27,Mombasa,Fashion,During,,,15,,7,ABC Ltd,Wholesale
+,2025-09-03,Eldoret,Fashion,Democratic,,,N/A,81379.04,543,ABC Ltd,VIP
+,2024-07-20,Mombasa,Home,Girl,,,10,,,,Retail
+TXN00284,2024-05-10,Nakuru,Groceries,Political,,,15,,,Prime Supply,retail
+TXN00285,2024-04-16,Mombasa,Groceries,Their,,1384.75,5,,892,XYZ Traders,Retail
+,2024-02-26,Eldoret,Grocery,Though,36,,0,14503.64,,,VIP
+TXN00287,2025-09-13,Mombasa,Home,Allow,13,,20,17923.94,,XYZ Traders,VIP
+TXN00288,2025-05-03,Eldoret,Fashion,Head,23,,15,47833.54,,,VIP
+TXN00289,2024-05-30,Nairobi,Grocery,Maintain,,,,,,,retail
+,2024-02-09,Eldoret,Groceries,Radio,,3833.71,20,37590.52,992,XYZ Traders,Wholesale
+,2025-03-23,Nairobi,fashion,Mouth,33,,,83650.57,,Prime Supply,Wholesale
+,2025-12-18,Mombasa,Grocery,He,,119.69,10,67992.86,,Prime Supply,Wholesale
+TXN00293,2025-02-15,Mombasa,Groceries,Inside,39,,20,13922.45,37,Prime Supply,retail
+TXN00294,2025-05-17,Nakuru,Grocery,Push,,,,2759.04,743,,VIP
+TXN00295,2024-08-09,Mombasa,Groceries,Social,5,735.78,15,46870.56,,ABC Ltd,retail
+,2025-01-07,Eldoret,Grocery,Live,,772.96,10,45115.23,795,ABC Ltd,VIP
+TXN00297,2025-12-29,Kisumu,Grocery,Stuff,37,,0,,706,Prime Supply,Retail
+TXN00298,2024-05-28,Kisumu,Home,Research,4,,,55912.9,,XYZ Traders,Wholesale
+TXN00299,2024-08-10,Eldoret,Fashion,Throughout,,,10,,942,,VIP
+TXN00300,2025-07-05,Kisumu,Grocery,Probably,,,0,80656.53,,XYZ Traders,Wholesale
+TXN00301,2025-05-12,Nakuru,Home,Simply,42,2877.59,15,,,ABC Ltd,VIP
+,2024-06-27,Kisumu,Groceries,Treat,,,0,,247,,retail
+,2025-03-14,Mombasa,Groceries,Space,50,,15,,152,XYZ Traders,Wholesale
+TXN00304,2024-01-17,Mombasa,Groceries,Remain,,1732.14,10,,,,Wholesale
+TXN00305,2025-10-08,Eldoret,Grocery,Stay,7,1387.3,N/A,,,,retail
+TXN00306,2024-01-10,Nakuru,fashion,Decide,49,,10,,514,XYZ Traders,VIP
+,2024-11-19,Kisumu,Grocery,Grow,,,5,,211,,VIP
+TXN00308,2024-10-08,Nakuru,Fashion,Early,4,,15,49601.75,985,Prime Supply,Wholesale
+TXN00309,2025-05-20,Eldoret,Fashion,Music,26,,15,,,ABC Ltd,retail
+,2025-04-22,Nairobi,fashion,Yet,,2280.25,0,17506.66,,Prime Supply,Wholesale
+,2025-10-12,Eldoret,Electronics,Half,21,,10,,,Prime Supply,retail
+TXN00312,2025-11-05,Eldoret,Electronics,Read,,,0,51196.61,263,Prime Supply,Retail
+,2025-01-03,Eldoret,fashion,Follow,,3989.11,15,80438.42,,XYZ Traders,Retail
+TXN00314,2025-05-12,Kisumu,fashion,Receive,,839.72,N/A,,868,,Wholesale
+,2024-04-02,Mombasa,Grocery,Structure,,2805.08,10,,404,,Retail
+,2025-07-30,Eldoret,Home,Talk,,,20,,,Prime Supply,retail
+,2025-06-18,Mombasa,electronics,Structure,,,15,49738.29,471,,VIP
+TXN00318,2025-02-17,Nakuru,Groceries,According,17,,20,56174.53,713,,retail
+TXN00319,2024-03-14,Eldoret,fashion,Each,,,0,93774.91,,ABC Ltd,VIP
+TXN00320,2025-01-19,Nairobi,electronics,Among,,,20,9394.35,,ABC Ltd,VIP
+TXN00321,2024-03-15,Mombasa,Grocery,Play,,2975.35,,,599,Prime Supply,VIP
+,2025-03-01,Kisumu,Electronics,Billion,46,,5,39397.21,983,XYZ Traders,Wholesale
+,2024-09-28,Nairobi,Electronics,Discuss,,,15,,827,Prime Supply,Wholesale
+TXN00324,2025-03-12,Nakuru,Grocery,Hold,,,N/A,4014.28,242,ABC Ltd,Retail
+TXN00325,2024-11-15,Mombasa,Groceries,Treat,,,,62247.59,,,Retail
+TXN00326,2024-11-06,Nakuru,Grocery,Theory,,,20,,,,VIP
+TXN00327,2024-12-06,Eldoret,Fashion,Green,30,,N/A,30673.82,846,ABC Ltd,retail
+,2025-09-01,Kisumu,Electronics,Into,,,5,,,ABC Ltd,VIP
+,2025-04-30,Eldoret,Fashion,Property,1,1774.15,20,22239.83,733,Prime Supply,Retail
+,2024-12-06,Eldoret,fashion,Card,,,20,33298.45,957,,Retail
+TXN00331,2024-06-09,Nakuru,Groceries,Property,,,10,23809.88,,XYZ Traders,Wholesale
+TXN00332,2024-09-04,Mombasa,electronics,Figure,,,,,126,,Wholesale
+TXN00333,2025-05-12,Nairobi,Groceries,During,26,,N/A,,,Prime Supply,Wholesale
+TXN00334,2025-01-12,Mombasa,Groceries,Present,,,10,,616,,VIP
+,2025-01-19,Mombasa,Grocery,View,47,,10,51702.85,,Prime Supply,Wholesale
+TXN00336,2024-10-22,Kisumu,Home,It,,1578.97,20,17284.64,488,Prime Supply,VIP
+TXN00337,2025-04-04,Eldoret,electronics,Tonight,,4807.6,N/A,,119,,Wholesale
+TXN00338,2024-08-29,Kisumu,Fashion,Skill,13,,N/A,47013.59,,XYZ Traders,VIP
+,2024-10-13,Nakuru,Fashion,Everybody,9,2727.83,15,,,,Retail
+TXN00340,2025-12-25,Eldoret,fashion,Pull,43,,5,859.12,,Prime Supply,VIP
+TXN00341,2025-07-15,Nairobi,Electronics,Single,,3497.3,10,,779,,Wholesale
+TXN00342,2025-08-02,Nairobi,fashion,Choice,,3931.92,20,2541.51,892,,Wholesale
+TXN00343,2025-02-02,Mombasa,Fashion,Who,9,3442.92,0,,217,Prime Supply,VIP
+,2024-04-25,Nairobi,Groceries,Reveal,23,,N/A,,,ABC Ltd,Wholesale
+TXN00345,2025-08-25,Eldoret,electronics,Tax,13,,5,,,XYZ Traders,VIP
+,2024-12-14,Eldoret,Grocery,Blue,,,10,36096.52,948,,VIP
+TXN00347,2025-04-12,Nakuru,electronics,Across,44,,N/A,,,ABC Ltd,Retail
+TXN00348,2025-10-29,Mombasa,Fashion,Song,,3932.98,20,,,,Retail
+TXN00349,2024-08-11,Kisumu,fashion,Weight,6,,10,93855.72,,,retail
+TXN00350,2024-04-16,Eldoret,Grocery,However,,,20,57811.07,733,Prime Supply,Retail
+TXN00351,2024-10-24,Nakuru,Groceries,Break,7,,N/A,46792.22,,,Wholesale
+TXN00352,2025-01-27,Mombasa,Grocery,Trip,,1625.87,,,,Prime Supply,Wholesale
+TXN00353,2024-09-20,Mombasa,Groceries,Several,,,20,,,Prime Supply,Retail
+TXN00354,2024-05-07,Nakuru,Home,Response,,2075.83,10,66918.91,,ABC Ltd,Wholesale
+,2025-05-28,Kisumu,Groceries,Day,5,177.4,,60611.78,,Prime Supply,VIP
+TXN00356,2025-02-28,Mombasa,Electronics,Never,,,15,,731,,Retail
+TXN00357,2025-10-17,Kisumu,electronics,Pick,9,,5,49013.37,,Prime Supply,Wholesale
+TXN00358,2025-11-28,Nakuru,Electronics,Goal,35,4810.04,N/A,40602.31,,XYZ Traders,retail
+TXN00359,2024-09-11,Nairobi,Home,Art,37,,0,,840,Prime Supply,Wholesale
+,2024-05-15,Kisumu,Fashion,Visit,,,0,97626.92,741,Prime Supply,Wholesale
+,2025-10-11,Eldoret,Home,Treatment,,,10,,662,XYZ Traders,Wholesale
+,2024-12-17,Nakuru,Fashion,Authority,47,3991.1,5,,716,XYZ Traders,Retail
+TXN00363,2025-08-11,Kisumu,Grocery,Certainly,,,10,72807.29,,ABC Ltd,Wholesale
+,2025-09-13,Nakuru,electronics,Team,43,,0,,298,Prime Supply,Wholesale
+TXN00365,2025-04-03,Nakuru,fashion,Think,,,20,,,Prime Supply,Retail
+TXN00366,2025-12-19,Kisumu,Groceries,Civil,,,10,,80,XYZ Traders,retail
+TXN00367,2025-02-07,Eldoret,Groceries,Customer,33,1711.63,20,,460,,Wholesale
+TXN00368,2025-02-01,Mombasa,Home,Serious,29,,5,93430.84,944,,Retail
+TXN00369,2025-08-29,Nairobi,electronics,Third,,551.2,N/A,54782.95,,ABC Ltd,retail
+TXN00370,2024-07-04,Nairobi,Electronics,Professional,42,,N/A,,832,ABC Ltd,retail
+TXN00371,2024-08-24,Eldoret,Fashion,Direction,,1707.47,,,713,ABC Ltd,Wholesale
+TXN00372,2024-08-06,Kisumu,Electronics,Indicate,10,,20,14719.96,161,ABC Ltd,retail
+TXN00373,2024-02-04,Nairobi,Home,Foreign,30,,0,73899,,,Wholesale
+TXN00374,2025-02-05,Nakuru,electronics,Important,,2960.32,20,84449.4,933,ABC Ltd,Retail
+,2024-11-12,Mombasa,Groceries,Note,,,,,988,XYZ Traders,retail
+TXN00376,2024-11-12,Nairobi,Electronics,Perhaps,,,N/A,60367.31,163,,Wholesale
+TXN00377,2025-01-25,Kisumu,Grocery,Home,,,10,40467.36,,,VIP
+TXN00378,2025-11-13,Eldoret,Grocery,Hour,13,3362.44,20,9188.78,,XYZ Traders,Retail
+TXN00379,2025-07-17,Mombasa,Fashion,Save,,3643.8,20,52711.99,,XYZ Traders,retail
+TXN00380,2024-02-20,Kisumu,Groceries,Blood,,4821.18,N/A,,672,XYZ Traders,Retail
+TXN00381,2024-12-16,Mombasa,Groceries,Perform,17,,0,,867,Prime Supply,Wholesale
+TXN00382,2025-04-26,Nakuru,Fashion,Under,,,N/A,99245.79,,,Wholesale
+TXN00383,2024-06-19,Nairobi,fashion,Minute,,,10,12510.82,,,Retail
+TXN00384,2024-08-28,Nakuru,Groceries,Let,,2710.22,0,85581.39,,,retail
+,2024-02-29,Kisumu,Fashion,Sometimes,,,0,1909.61,362,ABC Ltd,retail
+TXN00386,2024-06-21,Mombasa,Groceries,Firm,,3373.29,10,,785,Prime Supply,Wholesale
+TXN00387,2025-10-31,Nairobi,electronics,Often,,,N/A,34170.42,765,ABC Ltd,Wholesale
+TXN00388,2024-12-07,Nakuru,fashion,Land,,4864.79,0,95493.17,464,Prime Supply,retail
+TXN00389,2025-11-15,Eldoret,Fashion,Whose,24,,15,64255.48,472,,Retail
+TXN00390,2025-06-02,Mombasa,fashion,Level,33,,N/A,,,Prime Supply,Retail
+,2025-04-17,Kisumu,fashion,Thus,,,20,,,,Retail
+TXN00392,2024-04-01,Nairobi,Grocery,Seem,,,,18737.57,,XYZ Traders,Wholesale
+TXN00393,2024-09-09,Mombasa,fashion,Recently,4,,10,,,,retail
+TXN00394,2024-04-27,Nairobi,Home,Notice,11,4474.22,10,,,,Retail
+TXN00395,2024-09-20,Kisumu,Fashion,Design,28,2964.57,5,93662.95,,,Wholesale
+TXN00396,2024-09-12,Mombasa,Grocery,Anything,,,10,,,XYZ Traders,Retail
+TXN00397,2024-04-19,Mombasa,Grocery,Result,,,5,45912.17,,,VIP
+,2025-08-03,Mombasa,Home,Authority,20,150.55,0,64326.53,747,,Wholesale
+TXN00399,2025-03-26,Kisumu,electronics,Write,,,N/A,,871,XYZ Traders,retail
+,2025-05-01,Nairobi,Grocery,Affect,48,,,,,,retail
+TXN00401,2025-01-14,Kisumu,Home,Three,39,313.29,15,72703.74,,XYZ Traders,VIP
+TXN00402,2025-12-17,Mombasa,Electronics,Thought,42,,,45262.25,,,VIP
+,2024-11-05,Eldoret,Fashion,Beyond,38,,,70261.86,211,,Wholesale
+TXN00404,2025-11-19,Kisumu,Home,Throughout,42,,N/A,,,Prime Supply,retail
+TXN00405,2025-12-29,Kisumu,Fashion,Rest,39,3147.87,15,,,ABC Ltd,retail
+TXN00406,2024-07-06,Mombasa,Home,Seem,28,1157.23,5,,,XYZ Traders,Retail
+,2025-01-27,Nairobi,Home,Relationship,,,0,68538.52,116,Prime Supply,Wholesale
+TXN00408,2025-01-22,Nakuru,electronics,Learn,,,N/A,,,,Retail
+TXN00409,2025-10-30,Mombasa,Home,Dog,20,2249.12,,,,,Retail
+TXN00410,2025-04-22,Nakuru,Fashion,Campaign,,,,,761,ABC Ltd,VIP
+TXN00411,2025-10-07,Kisumu,Electronics,Mention,9,,15,20184.02,96,ABC Ltd,Wholesale
+,2025-03-08,Nairobi,Home,Nice,25,,5,3060.29,,,Wholesale
+,2024-04-15,Nairobi,Groceries,Tough,,,5,22245.87,,,Wholesale
+,2024-01-16,Mombasa,Groceries,Black,20,,20,,,Prime Supply,retail
+,2024-07-11,Nakuru,electronics,Floor,14,,N/A,,,,VIP
+,2024-11-09,Kisumu,Home,Their,,1179.98,10,55488.22,,XYZ Traders,VIP
+TXN00417,2025-11-15,Mombasa,fashion,Well,49,,0,93663.7,993,XYZ Traders,Wholesale
+,2025-05-07,Kisumu,electronics,Become,35,,15,,,ABC Ltd,Wholesale
+TXN00419,2025-06-10,Eldoret,Groceries,Senior,,,N/A,,,,Retail
+TXN00420,2025-08-12,Nakuru,electronics,Everyone,,,5,,360,XYZ Traders,Retail
+,2025-06-23,Kisumu,Home,Stuff,,998.4,0,14540.22,,Prime Supply,VIP
+TXN00422,2024-05-07,Mombasa,Groceries,Allow,50,,,15042.75,,,Wholesale
+,2024-03-28,Nakuru,Grocery,North,,3056.19,20,,,,retail
+TXN00424,2025-07-21,Eldoret,fashion,Own,,,15,,610,ABC Ltd,Wholesale
+TXN00425,2024-08-22,Nakuru,Fashion,Stage,29,,5,84175.47,,,Wholesale
+,2024-05-25,Mombasa,Groceries,Into,8,,15,25003.53,,,Retail
+TXN00427,2024-10-15,Mombasa,Home,Science,38,642.53,10,49110.7,,,retail
+TXN00428,2025-02-11,Nakuru,fashion,Break,,,10,,229,,retail
+TXN00429,2025-08-22,Kisumu,fashion,Program,,,0,,660,,Retail
+,2024-04-24,Eldoret,electronics,Process,,4037.48,N/A,,,,Wholesale
+TXN00431,2024-10-02,Kisumu,Fashion,Language,34,2901.19,15,88928.76,,XYZ Traders,retail
+TXN00432,2024-09-11,Eldoret,Electronics,Inside,,,0,84466.03,,XYZ Traders,Retail
+TXN00433,2025-08-22,Kisumu,Grocery,Executive,,1919.49,15,14244.99,,ABC Ltd,VIP
+TXN00434,2025-03-10,Eldoret,Electronics,Own,,,10,20444.41,761,,Wholesale
+TXN00435,2025-11-15,Nakuru,fashion,Protect,36,,0,55542.15,281,Prime Supply,VIP
+,2025-05-26,Eldoret,Fashion,Adult,38,,15,,606,XYZ Traders,retail
+,2024-05-20,Nairobi,Home,Deep,1,,20,,894,,retail
+,2024-06-08,Nakuru,fashion,Song,,,,94915.4,,XYZ Traders,retail
+TXN00439,2025-07-24,Mombasa,Home,Senior,,,15,99245.63,655,,Retail
+TXN00440,2024-04-02,Eldoret,Groceries,People,24,,5,28885.18,207,,Wholesale
+,2024-11-09,Mombasa,Electronics,Single,24,,10,,594,,Retail
+,2024-09-28,Nairobi,Electronics,Gas,,,5,,,,Retail
+TXN00443,2024-12-14,Kisumu,Groceries,House,,1240.5,10,,718,,VIP
+,2024-02-20,Mombasa,Grocery,For,1,,10,,22,,Wholesale
+,2024-09-29,Mombasa,fashion,Section,,3546.07,15,91532.1,,ABC Ltd,Wholesale
+TXN00446,2024-12-26,Mombasa,fashion,Soon,,,5,,463,ABC Ltd,Wholesale
+TXN00447,2025-07-24,Kisumu,Electronics,Enjoy,,4514.73,5,66790.79,,,Wholesale
+,2025-10-06,Mombasa,Grocery,Drive,40,,15,,,Prime Supply,retail
+,2024-03-12,Eldoret,Fashion,Place,,,20,,241,Prime Supply,Retail
+,2025-12-13,Kisumu,electronics,Story,4,1229.05,,38597.82,179,XYZ Traders,VIP
+TXN00451,2025-08-25,Nakuru,fashion,Look,,,20,,,,retail
+TXN00452,2024-04-23,Nairobi,Electronics,History,,658.99,10,,474,XYZ Traders,Wholesale
+,2024-11-28,Nairobi,Groceries,Tough,,,,,,,Wholesale
+TXN00454,2024-07-22,Nairobi,Groceries,Challenge,,4912.54,N/A,13096.42,,,Wholesale
+,2025-03-08,Kisumu,fashion,Board,,,10,,950,XYZ Traders,retail
+TXN00456,2025-02-24,Mombasa,Groceries,Surface,,,,,,,Retail
+TXN00457,2024-07-04,Mombasa,Home,Cultural,1,3569.39,15,,188,ABC Ltd,Wholesale
+TXN00458,2024-01-26,Kisumu,Fashion,Worker,,,,,,Prime Supply,Retail
+,2024-10-22,Nairobi,fashion,Involve,,3894.52,,71411.7,271,,Wholesale
+TXN00460,2024-05-28,Mombasa,electronics,Production,,,5,43574.82,829,XYZ Traders,Wholesale
+TXN00461,2024-05-03,Kisumu,Grocery,Management,2,,5,,696,,retail
+,2025-02-28,Kisumu,electronics,Eat,1,,0,24837.95,,Prime Supply,retail
+TXN00463,2024-08-18,Nairobi,Electronics,Threat,39,,15,,,,retail
+TXN00464,2025-03-12,Eldoret,Grocery,With,,,5,,,XYZ Traders,Retail
+TXN00465,2024-10-13,Nakuru,electronics,Eye,11,,15,,,,VIP
+TXN00466,2024-06-13,Kisumu,Home,Society,,235.03,,29822.36,756,XYZ Traders,retail
+TXN00467,2025-07-18,Kisumu,electronics,Drop,,3382.22,5,,,,Wholesale
+TXN00468,2024-08-23,Mombasa,Groceries,Parent,,,N/A,5447.16,,,retail
+TXN00469,2025-03-06,Mombasa,electronics,Current,,,0,,188,ABC Ltd,VIP
+TXN00470,2024-04-07,Nakuru,Grocery,New,41,3353.54,15,36280.08,,,retail
+TXN00471,2024-12-17,Mombasa,electronics,Evidence,,,15,,249,,retail
+TXN00472,2025-12-08,Nairobi,electronics,Respond,17,730.51,5,,,,Wholesale
+TXN00473,2024-05-17,Nakuru,Electronics,Consumer,12,,,,350,ABC Ltd,Wholesale
+TXN00474,2024-12-11,Nairobi,Fashion,I,,,5,,263,Prime Supply,Retail
+TXN00475,2025-06-24,Nakuru,Fashion,Produce,2,4329.43,10,3677.95,,ABC Ltd,VIP
+TXN00476,2024-12-19,Nairobi,Grocery,Whole,42,,20,30591.81,478,XYZ Traders,VIP
+TXN00477,2025-09-30,Eldoret,Grocery,Must,6,,10,22807.87,151,,Retail
+TXN00478,2025-08-22,Eldoret,Fashion,Open,,,0,,,ABC Ltd,retail
+,2025-06-28,Mombasa,Home,Agent,,2232.7,N/A,,,XYZ Traders,Retail
+TXN00480,2025-10-17,Nairobi,Home,Read,,3248.48,10,,,,Retail
+,2024-11-23,Eldoret,Fashion,Prepare,,,,42253.95,435,,retail
+TXN00482,2025-03-18,Nairobi,Groceries,Research,11,,0,,,Prime Supply,Wholesale
+,2025-03-04,Eldoret,Groceries,Standard,11,,N/A,,560,,VIP
+TXN00484,2024-02-10,Nakuru,Groceries,Religious,48,,5,80700.17,153,,Wholesale
+TXN00485,2024-05-15,Nairobi,Home,Song,,2473.16,N/A,13084.99,,ABC Ltd,Retail
+,2025-04-11,Nakuru,Home,Culture,,,5,12486.67,584,Prime Supply,retail
+,2025-02-05,Nairobi,Home,Require,,,15,,,,Wholesale
+TXN00488,2024-06-20,Kisumu,Home,Amount,32,401.62,10,,,ABC Ltd,Wholesale
+,2025-07-31,Kisumu,fashion,From,28,2735.92,10,28947.37,331,,Retail
+TXN00490,2025-12-19,Nairobi,Home,Attention,36,,0,,,ABC Ltd,VIP
+TXN00491,2024-12-30,Mombasa,fashion,Suddenly,,,0,98888.83,125,Prime Supply,Retail
+,2025-11-15,Mombasa,Home,Among,10,,,94567.42,,,retail
+TXN00493,2024-03-22,Kisumu,Home,Couple,25,,10,8254.65,969,XYZ Traders,retail
+TXN00494,2025-08-30,Eldoret,electronics,Likely,24,3494.21,5,,,,Retail
+TXN00495,2025-07-24,Eldoret,electronics,Writer,20,,10,15326.67,597,ABC Ltd,retail
+TXN00496,2025-09-30,Kisumu,Groceries,Time,,,N/A,,542,Prime Supply,VIP
+TXN00497,2024-04-12,Kisumu,Fashion,Sort,36,,,78951.27,133,ABC Ltd,Retail
+,2024-02-27,Eldoret,fashion,Event,32,,0,71153.85,,Prime Supply,retail
+TXN00499,2024-05-26,Mombasa,Groceries,Career,16,138.13,N/A,48470.18,372,,VIP
+TXN00500,2024-01-30,Kisumu,Groceries,Response,,,5,,,ABC Ltd,VIP
+TXN00501,2025-10-26,Kisumu,fashion,Much,50,,0,14767.16,,Prime Supply,Retail
+TXN00502,2024-09-23,Nairobi,electronics,Condition,47,4074.99,15,,112,XYZ Traders,Wholesale
+TXN00503,2024-07-31,Kisumu,fashion,Take,44,972.94,5,,,XYZ Traders,Retail
+TXN00504,2025-02-01,Nakuru,fashion,Simply,,,20,21856.81,596,ABC Ltd,retail
+,2025-08-17,Nakuru,Grocery,Conference,,1584.86,N/A,89993.63,291,,VIP
+TXN00506,2025-06-20,Kisumu,Fashion,Become,18,3243.58,10,23267.96,,,Retail
+,2025-12-21,Nakuru,fashion,Provide,34,,N/A,,,,VIP
+TXN00508,2024-02-11,Mombasa,fashion,Work,9,554.77,20,,,XYZ Traders,Wholesale
+TXN00509,2024-01-09,Nakuru,fashion,Under,,,10,,734,Prime Supply,Retail
+,2024-11-28,Nakuru,Electronics,Necessary,18,3027.18,10,50354.49,,ABC Ltd,Wholesale
+,2025-08-14,Eldoret,Electronics,Well,,,20,10895.09,,,Wholesale
+,2024-05-27,Eldoret,Home,Provide,,,N/A,85451.62,,,Retail
+TXN00513,2025-03-23,Mombasa,electronics,Place,,,20,,,,retail
+,2024-07-24,Nakuru,Groceries,Up,40,,5,1207.04,,ABC Ltd,Retail
+TXN00515,2025-10-22,Nairobi,fashion,Country,,,N/A,9004.3,,,VIP
+TXN00516,2024-11-21,Mombasa,fashion,Certainly,3,2237.84,,,987,Prime Supply,retail
+TXN00517,2024-03-13,Nairobi,Groceries,Take,9,,,,,Prime Supply,Wholesale
+TXN00518,2024-06-05,Mombasa,Grocery,Room,,,N/A,,457,XYZ Traders,VIP
+,2025-01-21,Nakuru,Fashion,Western,32,,N/A,,351,ABC Ltd,retail
+,2024-12-10,Nairobi,Home,Business,,,20,49230.95,,XYZ Traders,VIP
+TXN00521,2024-01-24,Kisumu,Fashion,Over,,2936.85,5,61675.21,,ABC Ltd,Wholesale
+,2025-07-03,Mombasa,fashion,Lose,27,,10,,,,Retail
+TXN00523,2025-12-09,Nairobi,Electronics,Once,38,4232.41,0,,,Prime Supply,Wholesale
+,2025-02-07,Nairobi,Electronics,While,11,,10,,331,Prime Supply,retail
+TXN00525,2025-11-06,Eldoret,Groceries,Inside,13,,20,,,,VIP
+TXN00526,2024-02-16,Nakuru,electronics,Agency,,3200.43,N/A,,617,XYZ Traders,Retail
+TXN00527,2025-08-26,Kisumu,Grocery,Both,,,15,,,Prime Supply,retail
+TXN00528,2024-03-28,Nakuru,fashion,Garden,,,15,,,XYZ Traders,retail
+TXN00529,2024-12-19,Nakuru,Groceries,Recently,13,675.73,N/A,,437,Prime Supply,Wholesale
+,2024-06-07,Nairobi,fashion,People,,1690.4,15,,,ABC Ltd,Wholesale
+,2025-09-06,Eldoret,Home,These,35,63.32,15,62407.4,363,ABC Ltd,Wholesale
+TXN00532,2024-02-01,Mombasa,Home,Box,,,20,,71,ABC Ltd,VIP
+TXN00533,2025-06-28,Nairobi,Home,Option,,3334.91,0,17585.17,89,,Wholesale
+TXN00534,2025-01-11,Kisumu,electronics,Degree,,3724.93,5,,341,Prime Supply,Wholesale
+TXN00535,2024-10-29,Eldoret,fashion,Might,,,5,,342,,retail
+TXN00536,2024-05-30,Nairobi,Grocery,Eye,,,15,32303.04,,,retail
+TXN00537,2024-03-05,Eldoret,electronics,Four,,,0,,,Prime Supply,Retail
+TXN00538,2025-01-28,Nakuru,Fashion,Keep,2,499.08,20,,774,XYZ Traders,Retail
+TXN00539,2025-03-12,Mombasa,Groceries,Speech,23,,10,,685,Prime Supply,retail
+TXN00540,2024-07-12,Eldoret,Grocery,Since,,3565.92,10,75118.46,305,XYZ Traders,Retail
+,2025-10-30,Kisumu,electronics,Moment,,3534.78,15,,325,,Retail
+TXN00542,2025-04-01,Mombasa,Groceries,Information,,,,,215,,Wholesale
+,2025-12-15,Nakuru,fashion,Field,,,10,18573.44,69,Prime Supply,VIP
+TXN00544,2024-04-09,Kisumu,fashion,Huge,9,,5,,47,Prime Supply,retail
+TXN00545,2025-11-28,Nakuru,electronics,Cell,36,,,39944.13,,,Wholesale
+TXN00546,2024-10-05,Kisumu,Groceries,Together,36,1745.65,15,96113.08,665,,Retail
+TXN00547,2025-05-17,Kisumu,Electronics,Occur,,,0,,,Prime Supply,Retail
+TXN00548,2024-09-13,Mombasa,fashion,Water,1,,5,,424,,VIP
+TXN00549,2025-12-07,Nairobi,Fashion,Generation,12,2016.19,10,,,XYZ Traders,Wholesale
+TXN00550,2024-03-02,Mombasa,Grocery,Show,,,5,48879.73,783,,VIP
+TXN00551,2024-04-08,Nairobi,fashion,Him,,4673.66,0,,360,,Retail
+TXN00552,2024-09-25,Eldoret,Home,How,,,0,18422.76,,,VIP
+,2025-10-06,Nairobi,electronics,Window,,2410.43,N/A,,443,Prime Supply,Wholesale
+,2024-12-12,Eldoret,Home,Man,18,,15,77619.28,,,Wholesale
+,2025-04-22,Mombasa,electronics,Go,25,,10,15486.32,,,VIP
+TXN00556,2025-12-22,Kisumu,Electronics,Player,23,,20,,59,,retail
+TXN00557,2025-07-29,Nakuru,Fashion,Audience,11,,10,,520,Prime Supply,VIP
+TXN00558,2024-02-27,Eldoret,Fashion,This,4,,0,,541,XYZ Traders,Retail
+TXN00559,2025-02-28,Eldoret,Grocery,Suggest,43,600.21,,31800.5,,,Wholesale
+,2024-06-20,Eldoret,Home,Such,,3671.88,,,212,ABC Ltd,VIP
+TXN00561,2025-01-07,Mombasa,Electronics,Method,41,,20,61513.68,,ABC Ltd,VIP
+,2024-09-27,Kisumu,Electronics,Something,,,0,68006.67,284,,Wholesale
+,2025-06-23,Nakuru,Groceries,Difficult,3,,,54883.8,263,Prime Supply,Retail
+TXN00564,2025-11-02,Mombasa,Electronics,Public,25,4820.84,15,,667,Prime Supply,Retail
+TXN00565,2024-03-23,Nakuru,electronics,Effort,,4085.81,15,,,Prime Supply,Wholesale
+TXN00566,2025-07-14,Mombasa,Fashion,Reveal,,,10,54093.14,,ABC Ltd,VIP
+,2024-03-17,Nairobi,electronics,Already,,,5,29568.87,875,XYZ Traders,retail
+TXN00568,2025-09-27,Mombasa,fashion,Evening,,,10,,,Prime Supply,Retail
+,2024-08-07,Nairobi,electronics,Director,,3293.47,10,61238.78,,ABC Ltd,Retail
+TXN00570,2025-02-18,Nakuru,fashion,Decide,,,N/A,,31,,Wholesale
+TXN00571,2025-11-06,Eldoret,Fashion,Window,,,20,10490.12,341,,Retail
+TXN00572,2025-04-05,Mombasa,Electronics,Hope,25,,20,88012.44,121,,VIP
+TXN00573,2024-08-09,Kisumu,Fashion,Commercial,30,904.85,20,16354.66,334,ABC Ltd,VIP
+,2025-04-01,Nairobi,Grocery,Ball,32,,N/A,,552,XYZ Traders,Wholesale
+,2025-10-06,Eldoret,Fashion,Others,,304.87,5,36684.32,385,,Retail
+,2024-10-10,Nairobi,fashion,Answer,15,,20,,,Prime Supply,retail
+TXN00577,2025-11-05,Nakuru,Grocery,Go,,,,64676.15,,XYZ Traders,Retail
+TXN00578,2025-12-06,Kisumu,Electronics,Last,,,,50527.06,,Prime Supply,VIP
+TXN00579,2024-03-23,Nairobi,Grocery,Computer,,,,,,,retail
+,2024-04-23,Mombasa,Home,Attorney,45,1159.2,,557.46,253,Prime Supply,Wholesale
+,2025-04-06,Eldoret,Fashion,Alone,,,,,681,Prime Supply,VIP
+,2024-05-20,Eldoret,electronics,Fish,,360.9,,85793.33,,,VIP
+TXN00583,2024-04-14,Eldoret,fashion,Model,,,N/A,,695,ABC Ltd,Wholesale
+TXN00584,2024-07-08,Mombasa,Grocery,Miss,,1944.27,,,260,XYZ Traders,Retail
+,2024-04-30,Nairobi,Electronics,Camera,,,10,,,Prime Supply,Retail
+TXN00586,2025-07-12,Nairobi,Electronics,Blood,4,,5,,190,ABC Ltd,Retail
+TXN00587,2025-12-10,Kisumu,Fashion,Imagine,13,,,13532.61,,XYZ Traders,retail
+,2024-07-12,Kisumu,Home,Even,35,,N/A,12464.03,,ABC Ltd,retail
+,2024-11-19,Eldoret,Grocery,Successful,,2507.39,5,50090.86,400,,retail
+,2024-08-25,Eldoret,Groceries,Eat,46,,10,62478.28,,,Wholesale
+TXN00591,2025-10-23,Nairobi,Grocery,Conference,10,,,,,,Wholesale
+,2025-11-17,Mombasa,Groceries,Put,,2616.93,15,,767,Prime Supply,retail
+TXN00593,2025-01-08,Eldoret,Home,For,,,10,84887.24,,,Retail
+TXN00594,2024-04-10,Kisumu,Groceries,Money,9,,15,64465.95,,,retail
+,2024-11-09,Nakuru,Grocery,Ten,34,,0,,,,Retail
+TXN00596,2025-01-09,Nakuru,electronics,Open,,,15,59815.57,727,Prime Supply,VIP
+,2025-10-28,Mombasa,fashion,Various,15,3797.52,,41726.02,,,retail
+TXN00598,2024-10-09,Kisumu,fashion,Sea,23,1736.59,5,80252.44,693,,Wholesale
+,2025-04-19,Eldoret,fashion,After,,,15,98813.5,,ABC Ltd,VIP
+TXN00600,2025-02-25,Mombasa,Home,Rather,31,,15,61671.49,,,Retail
+TXN00601,2025-02-01,Kisumu,Electronics,Painting,,,N/A,,,,Wholesale
+,2024-09-03,Kisumu,fashion,Matter,49,4185.94,0,,,,retail
+TXN00603,2024-04-24,Mombasa,Fashion,Computer,,333.3,0,66817.62,,,retail
+,2025-08-29,Kisumu,fashion,Phone,,,N/A,,,,retail
+TXN00605,2024-03-07,Nairobi,Fashion,War,13,,N/A,,,,VIP
+TXN00606,2024-01-13,Mombasa,Electronics,Baby,,,,71343.48,907,,Wholesale
+TXN00607,2024-03-19,Eldoret,Electronics,Risk,15,2255.65,20,,386,XYZ Traders,retail
+TXN00608,2024-04-26,Kisumu,Electronics,Because,43,,N/A,,555,XYZ Traders,VIP
+TXN00609,2024-07-30,Nairobi,fashion,Morning,,,,,808,XYZ Traders,VIP
+TXN00610,2025-10-30,Eldoret,Electronics,Behind,,2311.43,5,,,,Wholesale
+TXN00611,2025-12-09,Nakuru,Grocery,Finish,14,1613.78,,83074.03,,Prime Supply,Retail
+,2025-06-06,Nakuru,Electronics,Leg,,,20,,,,Retail
+TXN00613,2024-09-20,Kisumu,Grocery,Skin,17,,15,,462,,retail
+TXN00614,2024-05-07,Nakuru,Groceries,Then,10,1794.71,15,98267.43,,XYZ Traders,VIP
+TXN00615,2025-04-08,Eldoret,Home,Scientist,,,,,149,Prime Supply,Wholesale
+TXN00616,2024-12-11,Mombasa,Home,Exactly,16,2304.64,,,726,ABC Ltd,Wholesale
+,2025-03-28,Mombasa,fashion,Poor,,2123.63,5,18083.31,985,Prime Supply,retail
+TXN00618,2025-06-24,Kisumu,Grocery,Green,,,20,35793.24,,XYZ Traders,Wholesale
+,2025-06-04,Nakuru,Home,Pay,,,10,87461.16,236,,VIP
+,2025-02-11,Mombasa,Fashion,Staff,23,,20,,913,ABC Ltd,Retail
+TXN00621,2025-04-18,Kisumu,electronics,Method,,,5,,836,Prime Supply,retail
+TXN00622,2025-05-14,Nakuru,fashion,Available,43,,5,12062.39,812,ABC Ltd,Retail
+TXN00623,2024-01-21,Nakuru,Groceries,What,36,,5,7212.99,,XYZ Traders,VIP
+,2025-04-26,Eldoret,electronics,Might,18,,0,,,,retail
+TXN00625,2024-10-07,Nakuru,Groceries,Answer,,,20,,,ABC Ltd,Retail
+,2024-10-29,Nairobi,Electronics,Our,31,1344.31,5,,653,,VIP
+TXN00627,2025-08-05,Kisumu,fashion,My,1,,5,,795,Prime Supply,Retail
+,2025-10-23,Nairobi,electronics,Use,18,,20,88491.63,259,,Retail
+TXN00629,2025-11-08,Eldoret,Fashion,Remember,,,,40511.91,463,,VIP
+,2024-08-18,Eldoret,Groceries,Civil,,,N/A,45802.22,651,XYZ Traders,Retail
+TXN00631,2025-02-13,Eldoret,Home,Husband,,,,89532.58,,,VIP
+TXN00632,2024-09-05,Mombasa,Grocery,Business,31,1350.8,,,968,,Wholesale
+,2024-04-04,Nairobi,Fashion,Finally,,,0,62070.24,,,VIP
+TXN00634,2024-10-02,Eldoret,Grocery,News,,1236.53,0,80921.35,,,VIP
+TXN00635,2024-11-25,Mombasa,Electronics,Product,17,1565.12,N/A,,453,XYZ Traders,retail
+,2024-01-31,Nakuru,Electronics,Do,14,,N/A,,,,Wholesale
+,2024-08-19,Kisumu,Home,Billion,46,,0,,,XYZ Traders,Wholesale
+TXN00638,2025-09-18,Kisumu,Fashion,Industry,35,3393.12,N/A,,,ABC Ltd,Wholesale
+TXN00639,2024-08-26,Eldoret,Fashion,Agent,8,1148.8,15,,,XYZ Traders,VIP
+,2025-07-02,Nairobi,Fashion,Easy,,,,,347,Prime Supply,Wholesale
+TXN00641,2025-12-16,Nakuru,Electronics,Box,,,,,484,,retail
+TXN00642,2024-05-18,Eldoret,electronics,West,9,3273.67,15,,,,Wholesale
+TXN00643,2024-01-28,Nairobi,electronics,Knowledge,,,20,25461.57,,XYZ Traders,Retail
+TXN00644,2025-07-04,Mombasa,electronics,Know,5,2979.91,N/A,86071.46,,Prime Supply,retail
+TXN00645,2024-03-23,Nairobi,Home,Hundred,,2405.5,,82171.96,486,,VIP
+TXN00646,2024-10-10,Nairobi,Electronics,Matter,2,,20,,,,Wholesale
+TXN00647,2024-03-05,Mombasa,Groceries,Sister,,2473.73,15,12450.35,239,XYZ Traders,VIP
+TXN00648,2024-06-21,Nakuru,Groceries,Long,40,1641.16,N/A,44980.64,982,,retail
+TXN00649,2025-06-10,Nakuru,Groceries,Quality,,,15,,,XYZ Traders,VIP
+TXN00650,2025-03-28,Kisumu,Grocery,Low,,4115.45,,,,Prime Supply,retail
+,2025-02-13,Kisumu,electronics,Only,50,,5,,668,,Retail
+TXN00652,2024-04-14,Kisumu,electronics,Car,,1087.95,0,1013.66,,,Retail
+TXN00653,2024-09-11,Eldoret,Electronics,Cell,48,,15,10557.03,910,Prime Supply,retail
+TXN00654,2024-09-18,Eldoret,Home,Evening,25,,0,31210.71,87,Prime Supply,VIP
+TXN00655,2024-08-17,Eldoret,Fashion,Experience,20,,,22010.14,,,retail
+,2025-06-26,Eldoret,Fashion,Seem,,,N/A,4940.65,,,Wholesale
+TXN00657,2024-02-25,Kisumu,Fashion,End,,,10,,,XYZ Traders,retail
+,2025-10-30,Nairobi,Fashion,Gun,26,897.28,5,29789.71,62,XYZ Traders,Wholesale
+,2025-08-14,Mombasa,Groceries,Foot,26,,N/A,,376,,Retail
+,2025-02-09,Mombasa,Grocery,Discover,4,,15,,,,VIP
+TXN00661,2025-02-01,Kisumu,fashion,Debate,26,3937.4,0,,,ABC Ltd,Wholesale
+TXN00662,2025-12-13,Mombasa,fashion,Machine,12,2878.54,N/A,,299,XYZ Traders,VIP
+TXN00663,2025-04-04,Eldoret,Grocery,Positive,40,,0,,355,,Wholesale
+,2025-12-30,Nairobi,Grocery,Standard,38,,N/A,2257.43,259,ABC Ltd,Wholesale
+TXN00665,2025-11-17,Mombasa,Groceries,International,,,0,77633.02,,ABC Ltd,Wholesale
+TXN00666,2025-03-11,Eldoret,fashion,Senior,46,,20,72926.22,,,VIP
+,2025-03-08,Nakuru,Grocery,Wear,11,,10,62562.99,663,,retail
+TXN00668,2025-07-06,Mombasa,Home,Whose,,,10,,,XYZ Traders,VIP
+,2024-09-16,Mombasa,Groceries,Plan,,978.12,0,,,ABC Ltd,Wholesale
+TXN00670,2024-01-27,Nakuru,Electronics,Happy,,,10,79457.17,154,,retail
+TXN00671,2024-11-05,Mombasa,electronics,Company,,,10,,592,,Retail
+,2024-12-21,Nakuru,Grocery,Center,,4284.94,,,561,,VIP
+,2025-12-14,Eldoret,Fashion,Without,,,,36647.9,,Prime Supply,VIP
+TXN00674,2024-03-09,Kisumu,electronics,Quality,,,,6687.18,,XYZ Traders,Wholesale
+,2024-08-16,Nakuru,Home,Cost,50,,10,,93,,VIP
+TXN00676,2025-09-25,Kisumu,fashion,She,23,,10,81006.38,,Prime Supply,VIP
+TXN00677,2024-08-28,Kisumu,Electronics,Should,,,N/A,,353,XYZ Traders,retail
+TXN00678,2025-08-29,Mombasa,Groceries,Type,12,,15,,786,,Retail
+TXN00679,2025-06-02,Kisumu,electronics,College,,,10,70767.08,,ABC Ltd,Retail
+,2025-03-26,Kisumu,Groceries,Point,33,,0,,,,retail
+,2024-02-10,Mombasa,Groceries,Third,,4795.08,5,,460,,Wholesale
+TXN00682,2024-04-10,Mombasa,Grocery,Lead,36,,,31090.7,230,,VIP
+,2024-03-23,Eldoret,Home,Election,15,,N/A,,,ABC Ltd,Retail
+,2025-10-15,Nakuru,Fashion,Somebody,,2618.32,,13318.17,,,retail
+TXN00685,2024-11-29,Kisumu,Grocery,Herself,22,,15,,,,VIP
+TXN00686,2024-11-12,Nairobi,Grocery,Human,34,1645.07,5,,391,,retail
+,2024-09-12,Nairobi,Fashion,Center,,,5,51907.87,873,XYZ Traders,VIP
+,2025-08-04,Eldoret,electronics,Provide,4,,15,,,XYZ Traders,VIP
+,2025-04-09,Kisumu,fashion,Hospital,,,0,39315.88,,,Retail
+,2025-07-12,Nakuru,Fashion,Contain,,,5,5358.77,933,,retail
+TXN00691,2024-09-23,Eldoret,electronics,Talk,5,,20,16367.36,477,,Retail
+TXN00692,2025-07-29,Nairobi,electronics,Appear,4,,0,94881.47,277,,Retail
+TXN00693,2025-01-08,Mombasa,electronics,Career,10,,10,93478.29,305,ABC Ltd,VIP
+TXN00694,2024-10-27,Eldoret,Groceries,Sometimes,43,,,,257,,VIP
+TXN00695,2024-12-13,Nakuru,fashion,Red,17,,0,71459.92,939,XYZ Traders,VIP
+,2025-07-27,Mombasa,Groceries,Marriage,37,,,,,ABC Ltd,VIP
+TXN00697,2025-05-17,Nakuru,Groceries,Each,40,,20,67494.88,175,XYZ Traders,Retail
+TXN00698,2025-03-24,Nakuru,electronics,Whole,,,10,,264,ABC Ltd,Wholesale
+,2025-12-06,Nakuru,fashion,Member,,,5,,,Prime Supply,VIP
+TXN00700,2024-09-28,Mombasa,Home,Somebody,41,3267.04,0,67199.55,905,,retail
+TXN00701,2024-12-04,Nairobi,Fashion,Actually,,,N/A,43672.83,,Prime Supply,Retail
+TXN00702,2025-02-16,Eldoret,fashion,Material,,,,,713,,VIP
+TXN00703,2024-11-28,Eldoret,fashion,Around,27,2836.26,15,,606,ABC Ltd,Wholesale
+TXN00704,2024-01-12,Nairobi,fashion,Less,41,,N/A,,575,XYZ Traders,VIP
+TXN00705,2025-02-16,Kisumu,Home,Improve,,,5,80279.34,,ABC Ltd,retail
+TXN00706,2024-02-29,Nairobi,Groceries,Our,34,,15,58142.62,,ABC Ltd,Wholesale
+TXN00707,2024-09-16,Eldoret,Home,Skill,15,,15,11592.35,240,XYZ Traders,VIP
+TXN00708,2024-02-22,Nakuru,Grocery,Have,,771.14,N/A,92263.2,440,,VIP
+TXN00709,2024-10-23,Nairobi,Fashion,His,,,10,73594.2,796,XYZ Traders,Wholesale
+,2025-05-21,Kisumu,fashion,Fight,,,,53911.95,566,XYZ Traders,Retail
+,2025-07-06,Kisumu,electronics,Management,,,15,,,,Retail
+,2024-06-03,Mombasa,fashion,Large,,,15,,699,ABC Ltd,Wholesale
+,2025-03-03,Nairobi,fashion,Born,7,,N/A,,,ABC Ltd,Retail
+,2025-03-18,Eldoret,fashion,Two,,,N/A,,573,,VIP
+,2024-05-14,Eldoret,Grocery,Design,,3435.79,0,,22,XYZ Traders,VIP
+TXN00716,2025-12-11,Nakuru,Groceries,Seven,33,,0,87991.08,562,XYZ Traders,VIP
+TXN00717,2024-02-17,Kisumu,Grocery,Approach,,,,,330,XYZ Traders,Retail
+TXN00718,2025-10-22,Mombasa,electronics,Gun,43,,,,963,XYZ Traders,retail
+TXN00719,2025-03-02,Mombasa,Grocery,Line,49,128.51,15,,,,retail
+TXN00720,2024-03-26,Eldoret,Fashion,Tonight,46,,15,,,Prime Supply,Wholesale
+,2025-05-15,Nakuru,Groceries,War,,,20,,486,XYZ Traders,retail
+TXN00722,2025-04-03,Mombasa,Fashion,Stuff,,,N/A,,307,,VIP
+TXN00723,2024-10-18,Nakuru,Home,Second,7,,0,27256.17,1,,VIP
+,2024-01-30,Mombasa,Home,First,23,,,47560.45,113,Prime Supply,retail
+TXN00725,2024-01-29,Nairobi,Fashion,Maintain,24,3487.62,N/A,,,ABC Ltd,Wholesale
+TXN00726,2025-10-05,Mombasa,Groceries,Police,27,,10,88934.34,67,,VIP
+TXN00727,2024-08-22,Nairobi,fashion,Huge,44,1692.23,N/A,,,Prime Supply,VIP
+TXN00728,2025-05-21,Nairobi,Home,Usually,,1965.24,N/A,,,XYZ Traders,VIP
+TXN00729,2025-12-04,Nairobi,Groceries,Wind,23,136.14,20,89874.44,,ABC Ltd,VIP
+,2024-04-10,Nakuru,Grocery,Attention,43,1419.47,,,321,,VIP
+,2024-12-09,Eldoret,Groceries,Government,5,1901.43,10,,,Prime Supply,VIP
+TXN00732,2025-07-07,Mombasa,Groceries,Individual,,,20,,,Prime Supply,Retail
+,2024-01-09,Eldoret,Grocery,Everything,30,,0,4508.56,,Prime Supply,Retail
+,2025-02-06,Kisumu,fashion,Individual,,,N/A,,313,,Wholesale
+TXN00735,2025-08-28,Nairobi,Groceries,Prevent,20,,15,,246,XYZ Traders,Wholesale
+TXN00736,2024-11-06,Kisumu,fashion,Shake,,,15,29449.13,580,Prime Supply,VIP
+TXN00737,2024-08-02,Nairobi,Groceries,Low,41,,,73086.16,597,,Wholesale
+TXN00738,2024-03-02,Mombasa,electronics,Produce,46,,0,,,,VIP
+TXN00739,2025-04-09,Nairobi,electronics,Argue,,,20,70828.01,,Prime Supply,Wholesale
+TXN00740,2025-07-13,Eldoret,fashion,Major,,,N/A,,,XYZ Traders,VIP
+,2024-09-20,Eldoret,Fashion,Situation,,3113.09,5,,,,retail
+,2024-03-08,Kisumu,Groceries,Moment,,,10,71879.76,,,VIP
+,2025-07-28,Mombasa,Home,Material,14,,15,,665,,retail
+TXN00744,2025-05-29,Nairobi,Electronics,By,35,1847.62,5,,,ABC Ltd,Wholesale
+,2024-10-29,Kisumu,Grocery,Affect,26,2098.35,10,,774,ABC Ltd,retail
+TXN00746,2024-08-06,Nairobi,electronics,Soon,31,,N/A,,,,Retail
+,2024-05-24,Mombasa,Electronics,Have,9,4635.79,20,11750.09,,XYZ Traders,VIP
+,2025-09-13,Nairobi,Groceries,Short,29,2083.48,20,34653.58,,,Retail
+TXN00749,2024-05-02,Eldoret,fashion,Fear,,2439.73,0,,681,,retail
+TXN00750,2024-02-17,Nairobi,electronics,Final,,,15,,,Prime Supply,Wholesale
+,2025-09-03,Mombasa,Groceries,Score,,361.09,N/A,,694,,VIP
+TXN00752,2025-10-22,Kisumu,Grocery,Have,39,979.48,,,659,,Wholesale
+TXN00753,2024-03-29,Mombasa,Fashion,Realize,,,N/A,,192,XYZ Traders,VIP
+TXN00754,2024-01-15,Nakuru,fashion,Fear,35,,,93678.62,,XYZ Traders,Retail
+,2025-04-23,Nakuru,Home,Service,44,,20,,,Prime Supply,VIP
+TXN00756,2025-06-25,Mombasa,Grocery,Sister,6,,5,80958.64,,Prime Supply,Wholesale
+TXN00757,2024-05-10,Nakuru,Home,Outside,,3316.01,15,68445.67,,XYZ Traders,retail
+TXN00758,2024-10-06,Kisumu,Home,Out,,,20,,,Prime Supply,Retail
+,2025-08-30,Mombasa,fashion,Parent,,,N/A,69165.5,101,XYZ Traders,retail
+TXN00760,2025-12-03,Nairobi,Home,Discuss,,,10,,489,Prime Supply,Retail
+TXN00761,2024-07-16,Eldoret,Home,Report,,,N/A,,845,XYZ Traders,Wholesale
+TXN00762,2025-06-26,Nairobi,Fashion,American,,,10,69177.8,,XYZ Traders,VIP
+TXN00763,2025-09-28,Nairobi,Electronics,Public,,,10,,148,,VIP
+TXN00764,2024-01-10,Eldoret,Electronics,Focus,,1433.25,N/A,,,XYZ Traders,Retail
+TXN00765,2024-07-27,Nakuru,electronics,Identify,,1425.52,10,,,XYZ Traders,Wholesale
+TXN00766,2025-11-02,Nairobi,electronics,Wife,,3089.72,15,,,Prime Supply,Retail
+,2024-04-25,Mombasa,Groceries,Career,,3134.39,10,,,,Wholesale
+TXN00768,2024-11-21,Nakuru,Fashion,Put,20,1341.33,N/A,,363,XYZ Traders,Wholesale
+TXN00769,2024-01-27,Kisumu,Electronics,Weight,29,,20,60611.5,756,,retail
+,2024-09-12,Mombasa,electronics,Including,,4717.15,,58690.18,543,,Retail
+TXN00771,2025-06-19,Kisumu,Home,Notice,,,10,,17,,retail
+TXN00772,2024-07-17,Eldoret,fashion,Tree,,,N/A,,,Prime Supply,Wholesale
+TXN00773,2024-11-19,Nairobi,Groceries,Yeah,10,,N/A,,,,retail
+TXN00774,2025-02-05,Nakuru,Fashion,Success,,,N/A,,,,Retail
+TXN00775,2024-03-07,Nairobi,Groceries,Site,45,,5,49393.18,586,XYZ Traders,VIP
+TXN00776,2025-01-15,Nakuru,Fashion,Red,33,,5,18253.76,,ABC Ltd,VIP
+TXN00777,2024-03-07,Nakuru,Groceries,Able,45,,15,,63,ABC Ltd,Retail
+,2025-11-17,Nairobi,Grocery,Professor,,,5,14899.44,735,,Retail
+TXN00779,2024-04-23,Nairobi,electronics,Fill,,,0,,345,Prime Supply,retail
+,2024-07-26,Mombasa,electronics,Before,16,,0,,231,,retail
+,2024-08-31,Nakuru,Grocery,Record,33,,N/A,90913.68,913,Prime Supply,Retail
+TXN00782,2025-09-22,Nairobi,fashion,Nation,,4057.51,,,692,XYZ Traders,Retail
+,2025-03-02,Eldoret,Grocery,Hotel,12,,15,15058.41,,XYZ Traders,retail
+TXN00784,2024-11-08,Nairobi,fashion,Unit,21,1633.16,10,,261,Prime Supply,retail
+TXN00785,2024-02-21,Nakuru,electronics,Letter,27,,15,87095.18,,Prime Supply,VIP
+,2024-07-24,Kisumu,Fashion,Structure,47,,10,,,,retail
+TXN00787,2025-09-27,Mombasa,electronics,College,,,,70488.28,,XYZ Traders,VIP
+,2025-09-01,Nairobi,fashion,Whom,49,,15,69301.42,793,,Retail
+TXN00789,2024-10-20,Nakuru,Fashion,Democrat,,2271.25,10,,,XYZ Traders,Wholesale
+TXN00790,2025-08-03,Nakuru,electronics,Throughout,22,1182.52,5,97634.12,,ABC Ltd,Wholesale
+TXN00791,2025-03-26,Nakuru,Groceries,Country,19,,0,,3,,Wholesale
+TXN00792,2024-12-20,Nakuru,fashion,Early,,,5,97549.85,917,,Retail
+,2025-06-05,Mombasa,electronics,Lead,,,10,83858.28,,Prime Supply,Retail
+,2024-05-19,Kisumu,Home,Mean,37,,15,80242.65,,XYZ Traders,VIP
+TXN00795,2025-07-28,Kisumu,Fashion,Must,,901.64,10,,154,,VIP
+TXN00796,2024-12-11,Nakuru,Groceries,Throw,,,10,,,,VIP
+TXN00797,2024-01-01,Nairobi,Fashion,Door,25,,20,47938.61,801,XYZ Traders,Retail
+TXN00798,2024-02-16,Nairobi,Groceries,Teach,,,10,66958.92,,,retail
+TXN00799,2025-06-20,Nakuru,Fashion,Like,14,,,17899.3,232,,VIP
+TXN00800,2025-01-01,Kisumu,Grocery,Chance,43,,5,58417.03,310,,retail
+TXN00801,2025-11-19,Mombasa,fashion,Middle,,,N/A,7296.21,482,,Wholesale
+TXN00802,2024-02-25,Eldoret,Electronics,Court,,,0,28124.35,496,,VIP
+TXN00803,2025-08-14,Kisumu,electronics,Difficult,12,,,,373,Prime Supply,Retail
+TXN00804,2024-02-07,Mombasa,Electronics,Beyond,44,,,,105,ABC Ltd,retail
+TXN00805,2024-02-04,Kisumu,Fashion,Participant,50,,10,72942.09,,ABC Ltd,retail
+TXN00806,2024-09-30,Mombasa,Electronics,Recently,28,,10,,,,Wholesale
+TXN00807,2025-12-24,Nakuru,electronics,Safe,,,20,,427,XYZ Traders,Retail
+TXN00808,2024-09-07,Eldoret,Electronics,More,,1835.97,0,74626.39,,XYZ Traders,Wholesale
+,2024-12-13,Mombasa,Fashion,Pm,,,20,94548.69,,XYZ Traders,Retail
+TXN00810,2025-08-12,Eldoret,Grocery,Affect,37,,,,986,ABC Ltd,retail
+TXN00811,2024-09-25,Nakuru,Home,Other,,,15,,,,Retail
+TXN00812,2025-01-10,Nakuru,fashion,Gun,,,,,990,Prime Supply,Retail
+,2025-12-29,Kisumu,electronics,Hand,,,20,6559.96,983,,retail
+TXN00814,2025-06-21,Nairobi,Fashion,Rest,28,,20,,176,XYZ Traders,Retail
+,2025-09-09,Mombasa,Grocery,Stop,9,,10,24585.8,,Prime Supply,retail
+,2025-09-27,Eldoret,electronics,Oil,27,1597.24,,56452.91,672,XYZ Traders,Retail
+TXN00817,2024-12-23,Nakuru,fashion,Write,,,N/A,58847.07,,XYZ Traders,VIP
+TXN00818,2024-12-15,Kisumu,fashion,Many,,2303.92,20,,949,,VIP
+TXN00819,2025-05-23,Kisumu,Groceries,Dog,,,,,,,VIP
+TXN00820,2024-07-31,Kisumu,Home,Effect,,721.53,,2072.35,,,retail
+TXN00821,2025-07-12,Eldoret,Home,Exist,,,15,,990,ABC Ltd,Retail
+TXN00822,2025-04-11,Kisumu,electronics,Trip,50,,15,,984,Prime Supply,retail
+TXN00823,2024-09-20,Kisumu,Electronics,Community,2,2908.69,,,588,,VIP
+TXN00824,2025-03-04,Eldoret,Grocery,Far,,,20,,973,,Retail
+TXN00825,2025-07-12,Eldoret,Grocery,Safe,28,,,,,XYZ Traders,retail
+,2025-08-10,Eldoret,Grocery,Matter,17,,10,96261.95,,Prime Supply,retail
+TXN00827,2024-04-03,Kisumu,Groceries,Rich,,,0,67944.72,,,retail
+TXN00828,2025-09-08,Eldoret,Home,Education,,4680.47,N/A,,,ABC Ltd,retail
+TXN00829,2024-03-14,Eldoret,Electronics,Whatever,,,10,,,XYZ Traders,Retail
+TXN00830,2025-12-25,Eldoret,Grocery,Have,34,2313.84,10,,,Prime Supply,retail
+,2025-03-25,Mombasa,Grocery,Movement,,2932.01,N/A,30109.68,256,,retail
+TXN00832,2025-04-05,Nairobi,Fashion,Support,,4127.34,15,68544.03,,Prime Supply,retail
+TXN00833,2025-01-30,Nairobi,fashion,Draw,,,,,12,Prime Supply,Wholesale
+TXN00834,2024-05-14,Nairobi,Grocery,Company,50,,20,60154.88,410,,Wholesale
+TXN00835,2024-05-03,Eldoret,Groceries,Party,49,,15,,82,,Retail
+TXN00836,2024-05-12,Kisumu,Groceries,Chance,,,5,33695.35,,ABC Ltd,VIP
+TXN00837,2025-01-25,Nakuru,Grocery,Central,29,4980.59,N/A,,,,VIP
+,2024-04-07,Mombasa,Groceries,Tonight,,3208.59,10,,,XYZ Traders,VIP
+TXN00839,2025-02-06,Kisumu,Electronics,Think,3,,0,,241,,VIP
+TXN00840,2025-04-16,Nairobi,Electronics,Ground,,,15,23236.05,,ABC Ltd,Retail
+TXN00841,2025-11-06,Nairobi,Home,Good,43,,15,,,,Wholesale
+TXN00842,2024-01-08,Nairobi,Grocery,Protect,,,,,852,XYZ Traders,retail
+,2024-08-01,Mombasa,Groceries,My,43,,20,13196.11,,Prime Supply,VIP
+TXN00844,2024-08-03,Nairobi,fashion,Day,,2558.83,N/A,,196,,VIP
+TXN00845,2025-01-02,Eldoret,fashion,Main,,,N/A,,968,,VIP
+,2024-06-12,Kisumu,Home,Say,,,,,58,Prime Supply,Retail
+TXN00847,2025-11-13,Kisumu,Home,Discover,,,N/A,51515.93,952,,retail
+TXN00848,2025-04-24,Nairobi,Groceries,Bank,6,,0,,766,,Wholesale
+,2025-06-09,Nairobi,Home,They,,,0,,378,ABC Ltd,retail
+,2025-04-11,Mombasa,electronics,Least,,,,,567,Prime Supply,retail
+,2024-12-31,Eldoret,Grocery,Off,7,,15,36314.4,471,,VIP
+,2025-05-24,Kisumu,Electronics,Member,,,0,,80,,Retail
+,2024-06-02,Nairobi,Fashion,Machine,,,,,720,ABC Ltd,retail
+,2025-11-17,Kisumu,electronics,Expert,,,15,26033.82,,XYZ Traders,VIP
+TXN00855,2024-12-24,Kisumu,electronics,Want,50,1638.49,15,,,XYZ Traders,Wholesale
+TXN00856,2024-01-08,Nakuru,fashion,Two,,,N/A,,,,retail
+TXN00857,2025-09-07,Eldoret,electronics,Herself,41,,N/A,32176.85,251,ABC Ltd,Retail
+,2024-12-31,Kisumu,Fashion,A,21,3010.86,N/A,44904.18,197,,VIP
+,2024-12-07,Kisumu,Groceries,Despite,22,,10,39399.38,434,,VIP
+TXN00860,2025-01-29,Eldoret,Fashion,Floor,,,20,,,Prime Supply,Retail
+TXN00861,2024-08-20,Mombasa,electronics,Fast,35,,5,,,ABC Ltd,Retail
+TXN00862,2024-05-10,Nakuru,Home,Assume,2,,20,,815,XYZ Traders,VIP
+TXN00863,2025-03-20,Nairobi,Home,Beautiful,,2499.54,0,15371.54,,Prime Supply,VIP
+TXN00864,2025-10-10,Mombasa,fashion,Expert,30,,15,25963.8,,ABC Ltd,Wholesale
+TXN00865,2024-08-05,Mombasa,Home,Consider,45,,10,,,,Wholesale
+TXN00866,2024-11-07,Kisumu,Fashion,Religious,12,2865.95,15,,,ABC Ltd,Retail
+,2025-12-11,Nakuru,Electronics,Bring,23,3311.82,20,93682.51,,XYZ Traders,Wholesale
+TXN00868,2025-08-05,Eldoret,Electronics,West,,,N/A,37724.43,166,XYZ Traders,VIP
+TXN00869,2024-03-12,Nakuru,electronics,Catch,44,,,95610.41,,ABC Ltd,VIP
+TXN00870,2024-03-25,Nakuru,Home,Contain,,,N/A,23374.84,,,VIP
+,2025-11-20,Mombasa,Home,Lose,,,N/A,56152.19,,XYZ Traders,retail
+TXN00872,2025-05-17,Nakuru,Electronics,Know,24,3577.65,10,4247.9,975,Prime Supply,Retail
+,2025-04-18,Kisumu,Fashion,Suddenly,,582.49,N/A,,146,,VIP
+TXN00874,2024-09-20,Eldoret,Grocery,Old,,,,,,,Retail
+TXN00875,2024-12-12,Mombasa,Electronics,But,,3210.77,20,,,XYZ Traders,VIP
+TXN00876,2025-01-31,Nairobi,fashion,Finally,11,,,49291.94,,Prime Supply,retail
+TXN00877,2024-08-12,Mombasa,electronics,Sea,,3260.43,,74839.14,,Prime Supply,retail
+TXN00878,2024-11-25,Nairobi,Home,Board,,,5,,,XYZ Traders,Retail
+,2024-07-03,Nairobi,Grocery,Between,,2144.27,10,82513.61,,,Retail
+TXN00880,2024-07-31,Nairobi,electronics,Any,,,15,,,XYZ Traders,Retail
+,2024-10-17,Nairobi,Electronics,To,,1391.89,,30330.76,,,Wholesale
+TXN00882,2024-10-14,Eldoret,fashion,Treat,,,5,,874,,retail
+,2025-03-07,Mombasa,Home,Little,,,15,91802.55,,ABC Ltd,Retail
+,2024-07-22,Mombasa,fashion,Half,,,0,,,Prime Supply,Wholesale
+,2024-10-13,Kisumu,Groceries,Him,,153.67,,95841.12,663,,VIP
+,2025-05-25,Nairobi,Electronics,Glass,,,N/A,41078.61,655,,retail
+TXN00887,2025-08-07,Nakuru,Grocery,Law,9,,15,,,,Retail
+TXN00888,2025-09-25,Nakuru,fashion,Long,,4593.77,N/A,,15,Prime Supply,Wholesale
+,2024-02-13,Nairobi,Grocery,Discover,,,20,51983.45,848,,Wholesale
+TXN00890,2024-10-22,Eldoret,fashion,Herself,37,,20,,,,Retail
+TXN00891,2025-10-21,Kisumu,Groceries,Worker,24,,0,,,Prime Supply,Retail
+TXN00892,2024-08-10,Kisumu,Electronics,Listen,3,1260.26,15,,61,,Retail
+,2024-08-20,Eldoret,Home,South,,,15,,,,Wholesale
+,2024-11-14,Kisumu,Grocery,General,,4421.67,N/A,,136,,VIP
+TXN00895,2025-04-14,Nairobi,Groceries,Responsibility,15,,5,99579.45,721,,retail
+TXN00896,2025-01-16,Nairobi,electronics,Data,,,15,19629.45,717,,Retail
+,2025-03-02,Eldoret,Grocery,Wear,15,1496.38,0,19058.08,740,,retail
+TXN00898,2024-03-10,Nairobi,Home,Question,3,,10,,,,Retail
+,2024-10-09,Mombasa,Fashion,Across,,3506.73,,,825,,VIP
+TXN00900,2025-11-24,Mombasa,fashion,Key,,,20,,,,retail
+TXN00901,2024-01-16,Nakuru,Fashion,Among,2,,15,,,,Wholesale
+TXN00902,2024-11-20,Nairobi,Home,Mean,,,,,269,Prime Supply,retail
+TXN00903,2025-06-20,Kisumu,Grocery,View,,,20,85708.87,778,Prime Supply,Retail
+TXN00904,2025-06-14,Kisumu,electronics,Than,,4632.71,10,,945,XYZ Traders,retail
+TXN00905,2024-06-09,Nairobi,Home,Soldier,,,5,21369.63,,XYZ Traders,VIP
+TXN00906,2024-06-01,Nairobi,Home,Pull,9,,0,60316.61,,ABC Ltd,Wholesale
+TXN00907,2025-07-16,Kisumu,Fashion,Summer,,1516.63,15,39699.18,401,ABC Ltd,retail
+TXN00908,2025-10-20,Nakuru,fashion,Bit,27,,N/A,73208.83,,ABC Ltd,retail
+TXN00909,2025-11-13,Eldoret,fashion,Commercial,,,,,,,VIP
+TXN00910,2025-01-16,Eldoret,Grocery,Nor,,2543.65,20,98135.71,,,retail
+TXN00911,2024-07-23,Mombasa,fashion,Floor,20,,5,,,,VIP
+TXN00912,2025-09-17,Mombasa,Groceries,Always,42,,20,,,Prime Supply,Wholesale
+TXN00913,2025-02-25,Kisumu,Groceries,Choice,7,3818.75,N/A,,,ABC Ltd,Wholesale
+,2024-08-28,Nairobi,Electronics,Various,,769.27,5,,761,XYZ Traders,VIP
+TXN00915,2024-07-20,Kisumu,Home,Parent,20,,N/A,,420,,retail
+,2025-04-11,Nairobi,Groceries,Mean,,4839.3,10,9870,,,VIP
+,2024-11-01,Nairobi,Electronics,Nation,11,,20,,329,ABC Ltd,Wholesale
+TXN00918,2025-11-08,Mombasa,Home,Ten,,,20,62770.92,,ABC Ltd,retail
+TXN00919,2025-01-29,Kisumu,Home,Thing,,,15,81622.45,274,,VIP
+TXN00920,2024-04-07,Nakuru,Grocery,Loss,11,,5,49310.58,827,ABC Ltd,VIP
+TXN00921,2024-04-28,Eldoret,Fashion,Agreement,,2960.89,10,85008.89,,Prime Supply,Wholesale
+TXN00922,2025-08-29,Mombasa,Home,Amount,,,,17562.98,,,retail
+,2024-09-23,Mombasa,electronics,Mr,43,,15,88186.83,375,XYZ Traders,Retail
+TXN00924,2024-02-05,Mombasa,Grocery,Surface,41,,10,,662,,Wholesale
+TXN00925,2024-04-07,Eldoret,electronics,Guess,4,,0,25335.22,,ABC Ltd,retail
+,2025-07-07,Kisumu,Home,Fast,,,10,46162.92,,ABC Ltd,VIP
+TXN00927,2025-01-13,Kisumu,Fashion,Yard,44,,5,,653,Prime Supply,VIP
+TXN00928,2025-01-09,Nakuru,Electronics,Suffer,6,,10,75984.14,425,,VIP
+TXN00929,2025-01-06,Nairobi,Home,Member,4,2546.34,,89752.17,520,ABC Ltd,retail
+,2025-10-22,Mombasa,Grocery,Yard,,,15,3485.64,661,Prime Supply,Retail
+TXN00931,2024-12-01,Nairobi,Grocery,Ago,,,5,,,XYZ Traders,Retail
+TXN00932,2024-12-07,Eldoret,Electronics,Thousand,19,,10,,662,,Wholesale
+TXN00933,2025-05-12,Eldoret,Groceries,Soon,,190.97,15,,159,,Wholesale
+TXN00934,2024-12-15,Mombasa,electronics,Him,,1350.51,10,41976.52,,,VIP
+,2024-04-26,Eldoret,Home,Chance,,,5,,433,ABC Ltd,Wholesale
+,2025-09-29,Kisumu,Groceries,Indeed,43,4209.95,20,29041.14,487,ABC Ltd,VIP
+TXN00937,2024-05-22,Mombasa,Grocery,Leave,46,2866.66,N/A,60843.4,,ABC Ltd,Retail
+TXN00938,2025-05-07,Nakuru,Groceries,Mind,,,20,,865,,VIP
+,2025-04-29,Mombasa,Grocery,Time,,697,10,,745,ABC Ltd,retail
+TXN00940,2025-10-04,Nairobi,Electronics,Music,38,,10,,437,XYZ Traders,VIP
+,2025-09-24,Nakuru,electronics,Low,44,1125.25,N/A,32703.92,724,Prime Supply,retail
+TXN00942,2024-01-27,Nakuru,Electronics,Middle,17,,20,68808.87,146,,VIP
+,2024-09-21,Kisumu,electronics,Power,,,15,48313.22,,XYZ Traders,VIP
+,2025-07-16,Mombasa,fashion,Usually,36,2944.4,5,,96,,Retail
+TXN00945,2024-01-12,Nakuru,Electronics,Capital,,,10,,,,VIP
+,2025-11-02,Eldoret,Electronics,Point,50,,5,2599.4,358,Prime Supply,retail
+TXN00947,2024-09-04,Eldoret,electronics,Seek,14,,10,,752,,Wholesale
+,2024-12-23,Mombasa,Fashion,Yet,,,0,,,Prime Supply,Wholesale
+,2025-06-04,Kisumu,Home,After,46,,15,,761,Prime Supply,Wholesale
+TXN00950,2024-01-13,Kisumu,Home,Ok,42,,15,,,ABC Ltd,retail
+,2025-07-16,Eldoret,Home,Alone,28,,20,65569.8,,,Retail
+,2025-09-12,Eldoret,Grocery,Fly,4,,5,,,,retail
+TXN00953,2024-08-21,Eldoret,fashion,Again,,,N/A,55689.78,412,,VIP
+TXN00954,2025-12-23,Kisumu,Groceries,From,50,,N/A,59762.2,,XYZ Traders,Retail
+TXN00955,2025-05-04,Mombasa,Groceries,When,,,,,600,Prime Supply,Wholesale
+TXN00956,2025-03-28,Eldoret,electronics,Age,,,15,,,,Retail
+,2024-03-02,Kisumu,Electronics,Start,8,,20,,,,Wholesale
+TXN00958,2024-04-21,Nairobi,fashion,Kitchen,25,3625.75,,37362.42,425,,Wholesale
+,2024-03-27,Nakuru,electronics,Another,47,,20,78103.26,,,Wholesale
+TXN00960,2024-04-24,Mombasa,Fashion,Indicate,38,3416.32,15,16219.31,73,,Wholesale
+TXN00961,2024-05-16,Kisumu,fashion,Sense,,2935.66,N/A,61765.04,352,ABC Ltd,VIP
+,2024-06-25,Nakuru,Fashion,Front,,,N/A,,,ABC Ltd,Wholesale
+TXN00963,2025-10-02,Mombasa,Electronics,Draw,,,10,,,,Retail
+TXN00964,2024-04-17,Kisumu,Groceries,Great,,4388.1,5,33695.08,320,,Wholesale
+TXN00965,2024-08-02,Mombasa,Electronics,Crime,,,,,,,retail
+TXN00966,2024-02-25,Nairobi,Fashion,Staff,,,20,,,,Retail
+TXN00967,2024-11-05,Kisumu,Grocery,Job,12,,N/A,73151.28,,Prime Supply,VIP
+TXN00968,2024-12-28,Kisumu,fashion,Thus,,,10,,,Prime Supply,retail
+TXN00969,2024-12-11,Mombasa,Fashion,Skill,,,0,,506,ABC Ltd,VIP
+,2025-01-14,Kisumu,Electronics,Because,,,20,,,,Wholesale
+TXN00971,2024-01-18,Mombasa,Electronics,Seem,34,,10,,,ABC Ltd,VIP
+TXN00972,2024-04-22,Nairobi,fashion,Still,,,,26296.85,651,XYZ Traders,retail
+TXN00973,2025-03-26,Eldoret,Groceries,Scene,,,,,427,,Retail
+TXN00974,2025-03-13,Mombasa,Home,Ever,,4352.56,0,,274,XYZ Traders,Retail
+TXN00975,2025-09-24,Nakuru,fashion,Population,35,701.5,0,,,XYZ Traders,retail
+TXN00976,2025-10-06,Eldoret,Home,Cultural,24,162.82,0,,,ABC Ltd,VIP
+,2024-03-25,Mombasa,Grocery,Some,,,15,,424,ABC Ltd,VIP
+,2025-06-02,Nakuru,Fashion,Religious,,1957.31,10,,,,Retail
+TXN00979,2025-07-10,Eldoret,Groceries,Force,,,15,,,XYZ Traders,Wholesale
+TXN00980,2025-09-11,Eldoret,electronics,Truth,44,677.05,,92661.53,427,XYZ Traders,Retail
+TXN00981,2025-04-11,Eldoret,Electronics,Scientist,,,10,7921.3,,XYZ Traders,VIP
+TXN00982,2024-03-08,Eldoret,Home,Question,,4010.21,10,7197.3,,,VIP
+TXN00983,2025-08-18,Kisumu,Fashion,Mission,,,0,77086.75,218,,retail
+,2024-09-11,Mombasa,Grocery,Language,,4329.97,N/A,75008.18,580,ABC Ltd,Wholesale
+,2025-05-23,Eldoret,Grocery,White,,,,64649.1,,XYZ Traders,Wholesale
+,2024-04-16,Kisumu,electronics,Politics,48,,N/A,97714.81,,,VIP
+,2025-02-27,Nairobi,Groceries,Manage,38,4116.86,20,50966.78,585,,VIP
+,2025-10-07,Nakuru,Fashion,Firm,,,20,41424.98,,,retail
+TXN00989,2025-06-22,Mombasa,Electronics,Approach,,,5,,,,Retail
+TXN00990,2024-11-29,Nairobi,Home,Mean,,4916.89,20,,,Prime Supply,retail
+TXN00991,2024-01-27,Nairobi,Home,How,27,,0,60866.27,445,Prime Supply,Wholesale
+,2024-01-28,Mombasa,electronics,Maybe,,2871.34,0,,372,XYZ Traders,VIP
+TXN00993,2024-12-03,Mombasa,Electronics,Drive,5,,,,,ABC Ltd,retail
+TXN00994,2024-01-12,Nairobi,Grocery,Tell,35,,0,88126.62,826,,retail
+TXN00995,2025-10-15,Mombasa,Fashion,Throw,,3627.98,10,97917.57,650,,retail
+TXN00996,2024-07-23,Eldoret,Electronics,Land,,3938.98,N/A,43531.48,,,Retail
+TXN00997,2025-10-02,Mombasa,fashion,Expect,41,,0,94796,483,Prime Supply,Wholesale
+,2025-08-06,Kisumu,Groceries,Interesting,,,5,63150.02,,XYZ Traders,Wholesale
+TXN00999,2024-01-22,Kisumu,Grocery,Bad,,,5,46949.57,731,Prime Supply,Retail
+TXN01000,2025-10-19,Nakuru,Electronics,Admit,23,4238.89,N/A,88417.32,,,Wholesale
+TXN01001,2024-08-12,Eldoret,Home,Manager,,,N/A,48071.24,479,ABC Ltd,VIP
+TXN01002,2025-07-27,Kisumu,fashion,Wish,21,,5,52118.97,,,retail
+TXN01003,2025-12-18,Nakuru,fashion,International,,,10,31572.85,203,,retail
+TXN01004,2024-10-17,Eldoret,Groceries,Huge,6,,10,50115.14,,XYZ Traders,Wholesale
+,2024-07-12,Eldoret,Home,Boy,4,,5,28965.89,647,,VIP
+TXN01006,2025-09-08,Nairobi,Home,Share,,,,,384,Prime Supply,Wholesale
+TXN01007,2024-05-07,Eldoret,Grocery,City,23,,N/A,50965.44,444,XYZ Traders,Wholesale
+TXN01008,2025-10-07,Kisumu,electronics,Beyond,39,,0,40173.42,125,,retail
+TXN01009,2024-06-11,Eldoret,fashion,Share,,,10,79020.64,,,Wholesale
+TXN01010,2025-08-17,Mombasa,fashion,Past,18,,,32503.11,,,VIP
+,2025-04-30,Nakuru,Electronics,Fund,,,10,3793.82,868,,VIP
+TXN01012,2024-06-17,Eldoret,Electronics,Describe,3,4473.73,10,,,ABC Ltd,retail
+TXN01013,2024-07-08,Nairobi,Grocery,Street,43,2752.12,15,90553.82,,XYZ Traders,Wholesale
+,2025-11-03,Eldoret,fashion,Blood,6,,20,,,,Wholesale
+,2025-08-08,Kisumu,Home,Whether,16,1090.8,20,,693,,VIP
+TXN01016,2025-09-08,Mombasa,Home,Recognize,,,,,,,Wholesale
+TXN01017,2025-01-03,Kisumu,fashion,Walk,15,,10,,,,Retail
+,2024-11-26,Nakuru,electronics,Policy,27,,N/A,,748,XYZ Traders,retail
+TXN01019,2024-07-15,Nairobi,electronics,Financial,,,15,,,XYZ Traders,Retail
+TXN01020,2025-01-30,Eldoret,Fashion,Price,31,,N/A,55550.32,,,Retail
+,2024-10-24,Nairobi,electronics,Film,,,5,13506.54,,,Wholesale
+TXN01022,2024-03-30,Mombasa,Groceries,Away,20,,N/A,77047.81,455,XYZ Traders,retail
+TXN01023,2024-01-08,Mombasa,Groceries,See,,3242.24,N/A,,879,Prime Supply,Wholesale
+,2024-06-20,Kisumu,fashion,Determine,34,,20,21840.56,,,retail
+TXN01025,2024-01-12,Nakuru,Fashion,Still,8,633.8,0,,376,XYZ Traders,retail
+TXN01026,2024-04-11,Nairobi,Electronics,Much,5,1521.9,15,,701,XYZ Traders,Retail
+TXN01027,2024-08-04,Eldoret,Fashion,Unit,,,0,3767.29,92,,VIP
+TXN01028,2025-06-16,Nairobi,Grocery,On,,,N/A,81173.57,293,,retail
+,2025-11-08,Mombasa,fashion,Entire,,,,88242.66,452,,retail
+TXN01030,2025-01-13,Eldoret,Groceries,Head,,,N/A,33272.44,,,VIP
+TXN01031,2025-05-04,Mombasa,Home,Expert,12,2097.35,15,,79,ABC Ltd,VIP
+,2025-04-11,Nakuru,Electronics,Others,,2254.11,5,78653.02,,,Wholesale
+,2025-05-03,Mombasa,Grocery,Themselves,46,4645.53,0,15289.15,,XYZ Traders,Retail
+TXN01034,2024-12-14,Kisumu,Fashion,Series,25,,10,44211.95,,,Wholesale
+,2025-01-22,Nairobi,Fashion,Fish,,,20,1437.19,,XYZ Traders,Retail
+,2025-07-15,Nakuru,Fashion,Increase,,4424.02,N/A,9423.76,,XYZ Traders,Wholesale
+TXN01037,2025-10-18,Nairobi,Fashion,Matter,4,4382.63,5,,917,,Wholesale
+TXN01038,2024-05-20,Nakuru,Fashion,Traditional,35,3708.71,,5343.92,,,VIP
+TXN01039,2025-08-23,Eldoret,fashion,Quite,37,3144.97,20,59264.75,719,,retail
+TXN01040,2024-10-02,Eldoret,Electronics,Nor,,,15,50788.62,207,XYZ Traders,VIP
+TXN01041,2024-03-12,Kisumu,Groceries,Scene,7,,,79192.49,,XYZ Traders,Retail
+TXN01042,2025-04-25,Kisumu,Home,Phone,,,10,,,,retail
+,2024-02-26,Mombasa,Fashion,Design,41,,15,,,,retail
+TXN01044,2025-12-18,Nakuru,Fashion,Process,,,15,70370.49,582,XYZ Traders,VIP
+TXN01045,2024-11-21,Nakuru,Grocery,Often,42,,,29969.2,898,XYZ Traders,Wholesale
+TXN01046,2025-08-14,Mombasa,Groceries,Lay,6,,,,,,retail
+,2024-08-06,Mombasa,Fashion,Mr,,,15,,,Prime Supply,Wholesale
+TXN01048,2025-01-25,Mombasa,Grocery,Month,45,,N/A,93382.98,539,,VIP
+TXN01049,2024-03-01,Nairobi,fashion,Spend,,,10,,,XYZ Traders,Retail
+TXN01050,2025-11-17,Mombasa,fashion,Thus,14,4897.39,5,,,ABC Ltd,VIP
+TXN01051,2024-04-28,Nakuru,Groceries,Skill,,2112.92,20,,,ABC Ltd,Retail
+TXN01052,2025-11-07,Nakuru,Home,Interesting,,,N/A,1694.3,217,Prime Supply,VIP
+TXN01053,2025-04-12,Eldoret,fashion,Fine,32,3833.51,10,33608.28,141,XYZ Traders,retail
+,2024-11-07,Kisumu,Electronics,Population,,1224.15,15,12093.56,,,VIP
+TXN01055,2025-07-14,Nairobi,fashion,Strong,,3583.07,20,,,,VIP
+TXN01056,2025-06-04,Mombasa,Home,Environment,,,,64564.61,165,XYZ Traders,VIP
+TXN01057,2024-08-29,Nakuru,Groceries,Near,44,1768.8,0,32986.08,191,Prime Supply,retail
+,2024-07-05,Eldoret,electronics,Economy,22,,20,,,XYZ Traders,retail
+TXN01059,2025-07-31,Nairobi,electronics,Week,,,,58179,649,,Retail
+,2025-10-18,Kisumu,fashion,Lay,,,15,,208,,Retail
+TXN01061,2024-08-30,Mombasa,Groceries,Building,,,N/A,66635.98,,ABC Ltd,Retail
+,2024-06-15,Mombasa,fashion,Keep,33,,20,11208.59,930,,retail
+TXN01063,2024-03-14,Kisumu,fashion,Ever,28,,,51202.38,980,XYZ Traders,VIP
+TXN01064,2025-06-04,Mombasa,electronics,Last,15,4253.67,0,15734.57,344,ABC Ltd,Retail
+,2025-02-12,Nakuru,Electronics,Radio,40,,5,,678,,Retail
+TXN01066,2025-05-26,Nairobi,fashion,Stop,35,,N/A,,,,Retail
+TXN01067,2024-04-09,Nairobi,Electronics,Serious,36,,,53951.88,222,XYZ Traders,Retail
+,2024-06-05,Kisumu,Home,Parent,,4063.17,N/A,,852,,Retail
+TXN01069,2025-07-08,Eldoret,Grocery,Important,,3739.82,N/A,,687,Prime Supply,Wholesale
+,2024-10-20,Mombasa,Fashion,Teacher,,,0,73067.8,236,,Wholesale
+,2024-01-05,Nairobi,Groceries,Task,14,,15,,,XYZ Traders,Retail
+,2025-05-18,Eldoret,Grocery,Her,39,,20,,,,Retail
+TXN01073,2025-02-05,Nakuru,Fashion,Direction,,,,99761.83,19,XYZ Traders,retail
+,2025-10-13,Nakuru,fashion,Situation,42,848.01,,70414.7,945,,VIP
+,2025-05-29,Kisumu,Groceries,Field,,540.58,5,,,XYZ Traders,VIP
+TXN01076,2024-12-19,Kisumu,Groceries,Word,18,,5,99193.81,144,,VIP
+TXN01077,2024-01-31,Eldoret,Electronics,You,,3384.48,5,88771.83,,,Retail
+TXN01078,2025-07-17,Nairobi,Fashion,Feeling,,,10,14051.82,95,ABC Ltd,retail
+TXN01079,2024-01-05,Eldoret,fashion,Station,47,,15,,,ABC Ltd,Wholesale
+TXN01080,2025-04-26,Mombasa,electronics,Part,,,20,43806.62,915,XYZ Traders,retail
+TXN01081,2025-03-16,Nakuru,Groceries,Cost,18,,0,,,ABC Ltd,Retail
+TXN01082,2025-06-09,Mombasa,Home,Eat,6,,0,42311.11,,XYZ Traders,Wholesale
+TXN01083,2024-01-30,Kisumu,electronics,Fact,,3143.19,0,,,Prime Supply,Wholesale
+,2025-01-18,Mombasa,Home,Want,,3409.66,,11225.06,246,,Retail
+,2025-05-11,Eldoret,Fashion,Lawyer,2,,N/A,,,,Wholesale
+,2024-12-24,Nakuru,fashion,Fast,36,,0,,,Prime Supply,Wholesale
+TXN01087,2025-01-20,Nakuru,Groceries,Perhaps,25,,,,753,,retail
+TXN01088,2024-08-24,Eldoret,electronics,Might,38,,10,44144.83,639,ABC Ltd,Retail
+TXN01089,2025-11-28,Nakuru,Home,Trade,,4805.82,20,69313.25,750,,Wholesale
+TXN01090,2024-12-26,Kisumu,Electronics,Still,,,N/A,,22,Prime Supply,Retail
+TXN01091,2024-10-08,Mombasa,electronics,Measure,,,,,990,XYZ Traders,retail
+,2025-11-08,Mombasa,Grocery,Ago,17,,N/A,37323.17,73,Prime Supply,VIP
+,2024-05-21,Mombasa,Electronics,Sound,27,,10,61134.63,437,,Retail
+,2024-10-29,Nairobi,Electronics,Nor,,593.1,20,34613.22,,XYZ Traders,Wholesale
+,2025-09-06,Eldoret,Grocery,Member,4,,10,31442.65,,,Wholesale
+,2024-10-13,Nakuru,Electronics,Few,,,15,,,ABC Ltd,retail
+TXN01097,2024-12-30,Eldoret,electronics,Into,4,,20,87903.9,,ABC Ltd,Retail
+TXN01098,2025-05-31,Nakuru,Fashion,Mission,41,466.27,,,,ABC Ltd,Retail
+,2025-07-19,Kisumu,Home,Service,26,,0,30464.37,709,Prime Supply,Retail
+TXN01100,2024-11-06,Kisumu,Home,Character,,3317.11,0,22125.63,,,Retail
+TXN01101,2024-08-14,Nakuru,Electronics,Serve,49,,5,44870.24,534,XYZ Traders,VIP
+,2024-07-25,Kisumu,fashion,Hair,22,,N/A,40099.99,,,Wholesale
+TXN01103,2025-09-24,Nakuru,Grocery,Concern,,,20,,588,,retail
+,2025-12-10,Nairobi,Home,Truth,,1606.07,N/A,,990,XYZ Traders,retail
+TXN01105,2024-08-25,Nairobi,electronics,Executive,,,0,7399.8,221,ABC Ltd,Wholesale
+TXN01106,2024-10-13,Nakuru,Groceries,Camera,,,,64708.13,,XYZ Traders,Retail
+,2025-11-24,Nairobi,fashion,Group,,,,58777.07,449,,Retail
+,2025-07-24,Nairobi,fashion,Study,15,,15,,,,VIP
+,2024-01-03,Nairobi,fashion,Let,31,,,40283.49,250,ABC Ltd,VIP
+,2024-05-10,Eldoret,electronics,Citizen,24,,15,,472,,Retail
+,2024-03-09,Kisumu,Electronics,President,35,,15,2776.06,,ABC Ltd,Wholesale
+TXN01112,2024-05-27,Nakuru,Electronics,Deep,24,,10,24345.59,314,Prime Supply,retail
+TXN01113,2024-09-07,Mombasa,Electronics,Close,,1227.65,,,,Prime Supply,retail
+TXN01114,2024-12-25,Eldoret,Groceries,Fine,,,20,,682,XYZ Traders,Retail
+TXN01115,2025-03-20,Kisumu,Groceries,Style,27,,20,80847.57,668,,retail
+,2025-03-17,Nakuru,Groceries,Kind,36,1733.08,5,58664.9,,ABC Ltd,Retail
+,2025-06-25,Kisumu,Groceries,Member,6,,5,,,ABC Ltd,Wholesale
+TXN01118,2025-09-23,Nakuru,Home,Subject,49,,10,94512.76,,XYZ Traders,Wholesale
+TXN01119,2024-09-10,Eldoret,Home,In,,,15,,,ABC Ltd,retail
+TXN01120,2025-04-13,Nairobi,electronics,Onto,,1890.53,0,87929.36,,Prime Supply,Retail
+,2024-05-23,Kisumu,Electronics,Foot,42,369.54,10,48462.31,,,retail
+,2024-09-13,Nairobi,electronics,Call,,,15,7910.76,,XYZ Traders,Retail
+TXN01123,2024-02-15,Nakuru,electronics,Better,44,304.47,,58977.59,440,,Retail
+TXN01124,2024-02-13,Nakuru,Fashion,Official,,,20,,,,Wholesale
+TXN01125,2025-11-11,Mombasa,Home,Memory,,,15,,239,Prime Supply,VIP
+TXN01126,2024-03-23,Nakuru,Grocery,Better,,,20,,,XYZ Traders,Retail
+TXN01127,2025-07-13,Nakuru,Fashion,Model,,,10,69918.1,,,retail
+,2024-11-03,Kisumu,Fashion,Project,43,4155.54,10,,93,,Wholesale
+TXN01129,2024-12-28,Kisumu,Groceries,Ball,21,,15,,209,,VIP
+TXN01130,2025-05-13,Mombasa,Electronics,Over,,,N/A,83484.21,,ABC Ltd,retail
+,2025-05-28,Nakuru,Electronics,Two,,,N/A,,849,ABC Ltd,retail
+TXN01132,2025-05-20,Nakuru,electronics,Unit,,,15,,,Prime Supply,retail
+TXN01133,2024-09-29,Mombasa,fashion,Level,41,2357.36,10,,262,,Retail
+TXN01134,2025-11-21,Nakuru,Fashion,Central,20,,20,,,,Wholesale
+,2025-02-17,Mombasa,fashion,Least,50,,,1511.05,,,retail
+TXN01136,2024-12-17,Nairobi,Groceries,Store,,3152.25,5,,207,,VIP
+TXN01137,2025-06-18,Nakuru,Groceries,Time,33,735.71,N/A,,,,VIP
+TXN01138,2024-10-18,Nairobi,Home,Performance,,364.83,15,,,Prime Supply,Retail
+TXN01139,2024-05-20,Eldoret,Home,Take,,,N/A,62358.18,515,,VIP
+,2025-08-31,Eldoret,Fashion,Than,,,10,,,,VIP
+TXN01141,2024-08-25,Mombasa,Fashion,Traditional,22,,,,330,,retail
+,2024-10-07,Kisumu,Grocery,Thought,,586.32,10,16570.83,123,Prime Supply,retail
+,2025-12-01,Nairobi,Grocery,And,45,,,25609.43,,,Retail
+,2025-05-01,Nakuru,Home,Cultural,29,,5,71363.81,,,retail
+TXN01145,2024-12-31,Kisumu,Home,Identify,45,,15,51081.01,958,XYZ Traders,VIP
+,2024-11-25,Nairobi,Home,Today,43,4318.48,20,3500.3,,ABC Ltd,Retail
+TXN01147,2024-04-30,Mombasa,Fashion,Once,,,15,,,XYZ Traders,VIP
+,2024-06-05,Nairobi,electronics,Shake,,,20,,28,ABC Ltd,retail
+,2024-06-27,Nakuru,Groceries,State,,4246.27,0,3781.04,348,XYZ Traders,retail
+TXN01150,2024-02-15,Eldoret,fashion,Lose,,,N/A,,,,retail
+TXN01151,2024-03-23,Nakuru,fashion,House,,,N/A,,493,ABC Ltd,VIP
+,2024-08-19,Nakuru,fashion,Republican,9,304.85,N/A,,707,ABC Ltd,VIP
+TXN01153,2025-05-11,Nairobi,Electronics,Kitchen,,,0,96278.7,796,,retail
+,2024-01-07,Eldoret,fashion,Away,,748.18,0,77816.14,,XYZ Traders,Wholesale
+,2025-01-09,Kisumu,fashion,Free,,,0,30808.08,859,ABC Ltd,Retail
+TXN01156,2024-12-26,Kisumu,electronics,Actually,3,,5,,665,XYZ Traders,retail
+,2025-05-13,Mombasa,Home,Thing,,,0,65226.49,159,ABC Ltd,VIP
+TXN01158,2025-03-21,Kisumu,Home,Hope,,4636.31,5,,667,,Retail
+TXN01159,2024-02-05,Nakuru,Home,Development,11,,0,9831.91,154,,Retail
+TXN01160,2025-03-04,Eldoret,fashion,Coach,42,,15,,,Prime Supply,Wholesale
+,2024-08-17,Nairobi,Electronics,Call,9,2496,5,31797.15,345,Prime Supply,retail
+TXN01162,2025-08-21,Mombasa,Fashion,Fall,,,5,86612.67,,XYZ Traders,retail
+,2024-11-13,Kisumu,electronics,Sport,10,,5,97038.53,287,ABC Ltd,Retail
+,2025-08-28,Nairobi,Groceries,Painting,42,2087.25,15,,,Prime Supply,retail
+TXN01165,2025-12-13,Kisumu,Groceries,Television,10,,0,5559.89,,Prime Supply,Retail
+TXN01166,2024-12-23,Kisumu,Electronics,Become,,4600.35,,68517.59,,,retail
+,2025-08-03,Nakuru,Electronics,Still,44,,10,12075.51,,XYZ Traders,Wholesale
+TXN01168,2024-10-24,Kisumu,Grocery,Near,,,5,16567.31,158,ABC Ltd,Wholesale
+TXN01169,2025-09-30,Mombasa,Home,Idea,29,,15,94845.37,555,Prime Supply,Wholesale
+TXN01170,2024-07-19,Kisumu,Home,Beat,21,1826.01,10,,,Prime Supply,VIP
+TXN01171,2024-12-11,Kisumu,Fashion,Generation,19,743.73,N/A,65569.18,,XYZ Traders,retail
+,2024-07-30,Nakuru,fashion,Hair,,224.92,,,,ABC Ltd,retail
+,2025-05-12,Kisumu,Electronics,Financial,37,,0,86864.98,,,Wholesale
+TXN01174,2025-08-23,Mombasa,Home,North,,,10,,,ABC Ltd,retail
+TXN01175,2024-12-12,Eldoret,fashion,Student,46,491.43,20,,,ABC Ltd,Retail
+,2025-11-10,Nakuru,Grocery,Much,,,15,22970.96,736,ABC Ltd,Retail
+,2024-08-26,Eldoret,Home,Network,43,,5,36144.61,,ABC Ltd,Retail
+,2025-11-28,Eldoret,Home,Yes,,4525.31,5,47658.63,832,XYZ Traders,Retail
+,2024-09-19,Nairobi,electronics,Modern,42,694.91,,78245.63,805,,Retail
+TXN01180,2024-05-31,Kisumu,Groceries,Low,,,10,25408.78,,XYZ Traders,Wholesale
+TXN01181,2024-09-18,Nakuru,Grocery,Hear,,524.21,15,,,ABC Ltd,Wholesale
+,2025-09-10,Nakuru,Home,Beat,,,N/A,95100.14,,Prime Supply,Wholesale
+TXN01183,2025-07-12,Kisumu,Groceries,Listen,,,5,,58,XYZ Traders,Retail
+,2025-04-11,Eldoret,Groceries,Mother,49,,,,344,XYZ Traders,Retail
+,2025-06-19,Eldoret,Groceries,Form,,4879.73,,90700.11,925,,Wholesale
+TXN01186,2025-04-21,Eldoret,fashion,Alone,,,N/A,59484.39,,,VIP
+TXN01187,2025-10-28,Kisumu,Fashion,Others,31,,10,52869.16,,,retail
+,2025-10-13,Nakuru,electronics,Reason,13,,20,97922.04,525,ABC Ltd,Retail
+,2025-05-30,Nakuru,Electronics,Region,,,20,,,XYZ Traders,retail
+TXN01190,2025-02-08,Eldoret,Grocery,Republican,40,2616.14,15,74426.36,84,Prime Supply,retail
+,2025-12-24,Eldoret,Groceries,Term,22,,15,,,Prime Supply,Wholesale
+TXN01192,2025-05-21,Eldoret,Fashion,Safe,7,,20,,,XYZ Traders,Wholesale
+,2024-06-28,Eldoret,Groceries,Detail,,,15,26649.19,,,VIP
+TXN01194,2025-12-20,Eldoret,Electronics,Sure,,,5,,,,retail
+TXN01195,2025-08-17,Nakuru,fashion,Ahead,40,244.74,10,80963.02,70,ABC Ltd,VIP
+TXN01196,2024-01-21,Nakuru,Fashion,Their,,,N/A,75028.98,,ABC Ltd,retail
+,2025-03-13,Mombasa,Fashion,Although,,,15,87503.26,636,ABC Ltd,Wholesale
+TXN01198,2024-11-07,Eldoret,Electronics,Push,,1532.81,N/A,,279,Prime Supply,Wholesale
+,2025-09-16,Eldoret,electronics,Everything,10,,15,,992,XYZ Traders,retail
+,2024-12-08,Nairobi,Home,Ever,,97.81,N/A,56511.17,945,,retail
+TXN01201,2025-08-28,Eldoret,Groceries,Reach,9,,20,35834.73,,,Wholesale
+TXN01202,2025-07-25,Mombasa,fashion,However,,,0,,3,Prime Supply,VIP
+,2025-01-10,Kisumu,Fashion,Key,17,2666.56,10,52043.36,,Prime Supply,Wholesale
+TXN01204,2025-07-26,Mombasa,Groceries,Quality,36,,0,,,,VIP
+TXN01205,2025-09-28,Nairobi,Grocery,Sound,16,,5,,415,Prime Supply,Retail
+TXN01206,2025-09-24,Nairobi,electronics,Couple,46,2321.33,15,,,ABC Ltd,Wholesale
+,2025-07-17,Nairobi,Fashion,Former,12,3280.63,5,75461.99,780,,Retail
+TXN01208,2024-11-16,Mombasa,Fashion,Prepare,15,,5,,,XYZ Traders,Retail
+TXN01209,2024-01-14,Nairobi,Grocery,Smile,24,,5,85062.87,116,XYZ Traders,VIP
+TXN01210,2025-01-17,Mombasa,Grocery,Rate,,3684.53,,62038.36,,,VIP
+TXN01211,2025-02-19,Mombasa,Home,Get,41,,15,6588.13,,Prime Supply,Wholesale
+TXN01212,2024-01-01,Eldoret,electronics,Public,40,,5,,,ABC Ltd,retail
+TXN01213,2025-05-29,Eldoret,Grocery,Kitchen,3,,20,,688,,retail
+,2025-03-13,Nairobi,Groceries,Yeah,18,,0,,971,XYZ Traders,Wholesale
+TXN01215,2024-01-13,Nakuru,Electronics,Star,34,1986.91,0,88025.4,,,Retail
+,2024-06-24,Mombasa,Grocery,Feel,,,5,,512,Prime Supply,retail
+,2025-04-25,Nairobi,fashion,Home,39,,10,,,,Retail
+TXN01218,2024-12-10,Nakuru,Groceries,That,,,0,51934,,Prime Supply,Wholesale
+TXN01219,2024-09-28,Nakuru,fashion,People,1,,10,,774,,retail
+,2024-01-19,Eldoret,Fashion,Feeling,42,,10,89320.37,,XYZ Traders,Wholesale
+TXN01221,2025-12-01,Nairobi,Fashion,Less,50,,,75347.95,,ABC Ltd,Wholesale
+TXN01222,2024-05-09,Kisumu,Home,Likely,44,4798.98,15,,,Prime Supply,VIP
+TXN01223,2025-01-28,Eldoret,Home,Throw,34,,N/A,48744.76,282,ABC Ltd,VIP
+TXN01224,2024-05-09,Kisumu,electronics,Community,11,,0,,628,Prime Supply,retail
+TXN01225,2024-02-11,Eldoret,Grocery,Dog,7,,20,78201.4,64,ABC Ltd,retail
+TXN01226,2024-04-11,Kisumu,Groceries,Throw,,214.61,15,85713.73,,,Retail
+,2024-12-05,Nakuru,electronics,Training,10,4554.88,10,,,Prime Supply,VIP
+TXN01228,2025-01-18,Mombasa,Groceries,Table,27,2621.38,N/A,17360.69,811,,Retail
+TXN01229,2024-01-16,Nakuru,Electronics,Country,,803.13,,,521,,Retail
+TXN01230,2024-09-25,Mombasa,electronics,Wife,,4436.62,5,83192.4,169,Prime Supply,Wholesale
+TXN01231,2024-06-17,Mombasa,fashion,Worker,,,10,57122.46,936,XYZ Traders,retail
+,2024-05-21,Eldoret,Fashion,Act,,2135.35,15,,,Prime Supply,retail
+TXN01233,2024-11-10,Nairobi,fashion,Central,,,5,99543.71,,ABC Ltd,Retail
+TXN01234,2025-11-05,Mombasa,Home,Nice,47,,15,33439.59,,ABC Ltd,Wholesale
+TXN01235,2024-05-06,Nairobi,Fashion,Center,20,3295.75,15,626.4,847,,VIP
+,2024-08-21,Nairobi,Fashion,Window,,,10,,,,Retail
+TXN01237,2025-09-26,Mombasa,Grocery,Eight,,,,60355.03,,ABC Ltd,Retail
+TXN01238,2024-12-16,Nairobi,Home,Identify,25,,5,12645.35,590,ABC Ltd,VIP
+TXN01239,2025-07-01,Nairobi,Fashion,Want,1,4272.95,5,,,XYZ Traders,VIP
+,2025-02-26,Nakuru,Electronics,Fast,,,5,43084.1,,XYZ Traders,Retail
+,2025-06-12,Mombasa,Fashion,My,,2353.99,15,31092.27,348,ABC Ltd,retail
+TXN01242,2024-05-27,Kisumu,Fashion,Our,15,,20,,363,ABC Ltd,Retail
+,2024-03-25,Kisumu,fashion,Yes,6,3081.06,0,93556.69,107,Prime Supply,Retail
+,2025-05-17,Eldoret,fashion,Concern,24,,5,,304,ABC Ltd,Wholesale
+TXN01245,2024-07-22,Kisumu,Electronics,Voice,,447.22,0,,,,Wholesale
+,2024-12-24,Nairobi,Electronics,Figure,17,4878.44,0,,,Prime Supply,Retail
+,2025-07-24,Eldoret,Home,Common,,,15,,198,ABC Ltd,VIP
+TXN01248,2025-01-26,Mombasa,fashion,Recently,40,,,71738.37,,,Wholesale
+,2024-02-03,Eldoret,Fashion,Movie,,,N/A,,362,,Wholesale
+TXN01250,2025-11-22,Kisumu,fashion,Black,,,0,,865,ABC Ltd,VIP
+TXN01251,2024-07-21,Mombasa,electronics,Two,36,,,65093.43,451,,retail
+TXN01252,2025-07-23,Nairobi,fashion,Pick,,,5,34656.51,791,Prime Supply,Wholesale
+TXN01253,2024-04-11,Nairobi,Fashion,Instead,,,15,,202,,Retail
+TXN01254,2024-10-28,Eldoret,electronics,Feeling,44,,5,7517.63,,,retail
+,2024-03-19,Mombasa,Home,Full,23,,0,,,Prime Supply,Wholesale
+,2025-08-02,Nakuru,Fashion,Able,47,,5,91377.84,855,ABC Ltd,VIP
+TXN01257,2025-04-03,Mombasa,Grocery,Simple,,,10,,,,Wholesale
+TXN01258,2024-10-19,Eldoret,electronics,Factor,,2672.75,5,44733.36,919,,retail
+,2024-01-09,Nairobi,Grocery,Pay,,,,56314.48,,Prime Supply,Wholesale
+TXN01260,2024-03-30,Eldoret,electronics,Individual,,,0,,,,retail
+,2025-10-13,Mombasa,Groceries,Similar,,4994.83,15,85443,,,Retail
+,2025-05-18,Mombasa,Grocery,Family,,,,88814.42,,,retail
+TXN01263,2025-07-05,Kisumu,Groceries,Recently,,470.88,10,10984.94,165,ABC Ltd,Wholesale
+TXN01264,2025-03-29,Kisumu,Groceries,Claim,,944.41,15,20138.23,618,,Retail
+TXN01265,2024-06-27,Kisumu,fashion,Pick,,,5,,190,,retail
+,2024-12-26,Nairobi,fashion,Produce,,,,51972.84,246,,Retail
+,2025-02-04,Eldoret,Groceries,Officer,,,,57223.53,,XYZ Traders,retail
+,2025-02-23,Eldoret,Fashion,News,,2617.92,N/A,,,,VIP
+,2025-05-18,Nakuru,electronics,Rate,50,,,,,Prime Supply,Retail
+TXN01270,2025-07-21,Nakuru,Electronics,Face,49,,5,5629.9,,,retail
+TXN01271,2025-05-07,Nakuru,fashion,Produce,11,2779.16,10,,,,Wholesale
+,2025-06-26,Eldoret,Grocery,Thought,28,,,,528,ABC Ltd,Wholesale
+,2025-10-07,Nakuru,electronics,Enter,16,,15,37925.55,826,ABC Ltd,retail
+,2025-07-24,Nakuru,Electronics,Still,46,,0,72311.56,376,XYZ Traders,Retail
+,2025-09-14,Kisumu,electronics,I,10,,15,,,ABC Ltd,Retail
+TXN01276,2024-04-12,Nakuru,Home,Go,48,,0,79521.74,44,Prime Supply,Retail
+TXN01277,2024-03-02,Nakuru,Home,Available,37,,20,53613.85,,XYZ Traders,Wholesale
+,2024-09-05,Eldoret,Home,Trade,11,2594.65,20,,852,Prime Supply,VIP
+,2024-07-24,Nakuru,Fashion,Particularly,3,,15,,23,,Retail
+TXN01280,2024-12-20,Nairobi,fashion,Its,,,15,56239.22,,,VIP
+TXN01281,2024-03-15,Mombasa,electronics,Night,11,,0,86560.3,,Prime Supply,Wholesale
+TXN01282,2025-01-05,Mombasa,fashion,Present,43,3651.33,0,70475.37,608,,retail
+TXN01283,2024-05-31,Mombasa,Home,Standard,,4773.27,20,67325.97,,ABC Ltd,retail
+TXN01284,2024-05-07,Kisumu,fashion,Environment,,,15,,,,Wholesale
+,2024-12-29,Mombasa,electronics,Poor,,1445.06,10,,779,,Retail
+,2024-03-27,Eldoret,Home,Agency,,,10,77884.86,,ABC Ltd,Wholesale
+TXN01287,2024-02-09,Nakuru,Electronics,Manage,36,,,79107.67,119,XYZ Traders,Wholesale
+TXN01288,2024-06-25,Eldoret,Electronics,Have,,3451.04,15,,151,ABC Ltd,VIP
+,2025-03-28,Nakuru,Home,Cell,,4298.02,15,52009.16,,XYZ Traders,Retail
+,2025-04-28,Nairobi,Groceries,Range,24,,0,,258,,VIP
+TXN01291,2024-09-30,Kisumu,Fashion,Sign,,,5,47493.99,,,Wholesale
+TXN01292,2024-09-21,Eldoret,electronics,Right,28,3519.01,0,,,ABC Ltd,retail
+TXN01293,2024-03-26,Eldoret,Grocery,Week,,,N/A,,80,Prime Supply,VIP
+TXN01294,2025-11-12,Kisumu,Home,Strong,,2870.66,,,,,VIP
+,2025-07-31,Kisumu,Fashion,Certain,,,15,30855.24,,ABC Ltd,retail
+TXN01296,2024-03-23,Nakuru,Fashion,Plan,42,166.18,5,96272.2,735,Prime Supply,VIP
+,2025-02-17,Mombasa,Grocery,Main,20,3640.94,10,,692,Prime Supply,VIP
+,2025-03-11,Nairobi,Fashion,Why,9,4274.35,N/A,,,Prime Supply,VIP
+TXN01299,2025-06-01,Eldoret,fashion,Brother,50,,,42249.02,,XYZ Traders,Wholesale
+,2025-03-13,Mombasa,fashion,But,35,,5,96316.83,,,Wholesale
+TXN01301,2024-05-13,Kisumu,Fashion,Evidence,22,,15,,619,,Wholesale
+TXN01302,2024-12-20,Eldoret,fashion,Anyone,40,,5,,,,Wholesale
+TXN01303,2025-09-08,Eldoret,Fashion,Process,,,10,42018.21,,XYZ Traders,Retail
+TXN01304,2025-12-21,Eldoret,Fashion,Subject,10,,N/A,,909,,Retail
+,2025-08-01,Eldoret,Electronics,Gas,45,,5,44742.79,217,XYZ Traders,VIP
+,2024-08-09,Nairobi,electronics,Claim,,,10,,,ABC Ltd,VIP
+TXN01307,2024-08-22,Kisumu,Home,Spend,10,,,26211.29,,Prime Supply,Retail
+,2025-10-28,Eldoret,Electronics,Prevent,13,,5,43478.74,,ABC Ltd,Wholesale
+TXN01309,2024-05-06,Mombasa,Fashion,Allow,,764.59,20,65277.57,975,Prime Supply,retail
+,2024-03-23,Eldoret,Home,Agreement,18,,5,50613.08,,Prime Supply,Retail
+TXN01311,2025-07-17,Nakuru,electronics,Central,,,5,,283,Prime Supply,VIP
+,2024-04-02,Nairobi,Home,Church,14,,N/A,,,,Retail
+TXN01313,2025-11-08,Kisumu,fashion,Future,38,,5,39190.42,,,Wholesale
+,2024-06-03,Kisumu,Electronics,Then,,4051.76,,33857.81,,,Retail
+TXN01315,2025-12-07,Eldoret,Grocery,Free,26,,5,,,,Wholesale
+TXN01316,2025-04-07,Nairobi,fashion,Establish,5,,5,89750.99,,XYZ Traders,VIP
+,2025-03-14,Nakuru,Electronics,Service,,,10,39621.26,,,Wholesale
+TXN01318,2025-01-02,Kisumu,Groceries,Feel,,,10,34736.76,727,ABC Ltd,Wholesale
+,2024-11-21,Eldoret,Electronics,Life,,4485.69,10,,,,VIP
+TXN01320,2025-03-17,Mombasa,fashion,Talk,,3871.72,,98218.73,440,Prime Supply,VIP
+TXN01321,2025-07-10,Nakuru,Electronics,Camera,,,N/A,,,XYZ Traders,Wholesale
+TXN01322,2025-05-02,Mombasa,Electronics,Staff,1,4503.64,N/A,39339.95,,XYZ Traders,Retail
+TXN01323,2024-04-26,Nakuru,Fashion,No,,,,,515,ABC Ltd,retail
+,2025-01-26,Eldoret,Home,Story,34,168.36,5,87677.65,548,XYZ Traders,VIP
+TXN01325,2024-09-02,Kisumu,Groceries,Soldier,,1572.78,15,46654.04,,,retail
+TXN01326,2025-07-24,Nakuru,Fashion,Improve,46,1212.22,15,,112,Prime Supply,VIP
+TXN01327,2024-10-25,Mombasa,Groceries,Movement,,,0,,,ABC Ltd,Retail
+TXN01328,2024-07-16,Nakuru,Groceries,Too,43,980.29,,,,,VIP
+TXN01329,2024-07-08,Mombasa,Groceries,Guy,,489.29,5,18229.09,,ABC Ltd,VIP
+TXN01330,2025-12-28,Nakuru,electronics,Season,,,20,23106.18,550,XYZ Traders,Wholesale
+,2025-08-25,Eldoret,fashion,Box,14,3347.11,15,,306,,Wholesale
+,2025-10-15,Nairobi,fashion,Catch,,,0,34192.63,849,,Retail
+TXN01333,2025-09-11,Nairobi,fashion,Leg,39,,0,,,ABC Ltd,VIP
+TXN01334,2024-08-15,Nakuru,Groceries,Dream,27,4567.13,N/A,50944.96,,,Wholesale
+,2025-08-27,Nakuru,Fashion,Air,,,0,63875.77,,,Wholesale
+TXN01336,2024-11-15,Nairobi,Fashion,Here,35,1146.89,10,68201.79,491,Prime Supply,retail
+TXN01337,2024-04-28,Kisumu,Fashion,Perhaps,,1300.46,0,,,XYZ Traders,Retail
+TXN01338,2025-06-20,Nairobi,fashion,Figure,,,0,,631,,retail
+TXN01339,2025-01-31,Nairobi,electronics,Challenge,,,15,60612.14,,,VIP
+,2025-01-21,Nakuru,Home,Card,50,,N/A,10722.94,664,Prime Supply,Wholesale
+,2024-11-11,Eldoret,electronics,Mind,29,,15,,,,retail
+TXN01342,2024-03-29,Nairobi,Fashion,Six,,,20,65399.91,,ABC Ltd,VIP
+TXN01343,2025-12-10,Mombasa,Groceries,My,24,,15,,,,Wholesale
+TXN01344,2025-08-30,Nairobi,Grocery,Pattern,,,10,,,,VIP
+TXN01345,2024-12-16,Nairobi,electronics,Performance,43,,15,,704,Prime Supply,VIP
+,2024-01-19,Eldoret,fashion,Hand,,,N/A,50460.89,818,ABC Ltd,VIP
+,2024-01-04,Nairobi,Fashion,Many,36,,N/A,,120,Prime Supply,VIP
+TXN01348,2025-06-14,Kisumu,Home,Sure,,4399.31,5,,159,,retail
+TXN01349,2025-03-27,Kisumu,Home,Six,,,N/A,,398,,Retail
+TXN01350,2024-03-23,Nakuru,electronics,System,29,895.73,,20963.78,,,Retail
+TXN01351,2025-01-13,Mombasa,Home,Plant,44,,10,71970.49,,,retail
+TXN01352,2024-08-20,Mombasa,Home,Range,,,20,,,XYZ Traders,retail
+TXN01353,2024-03-24,Nakuru,Home,Compare,9,,,,,XYZ Traders,VIP
+,2025-09-07,Kisumu,Electronics,Next,,,N/A,5828.07,,Prime Supply,Wholesale
+TXN01355,2025-06-03,Nairobi,Grocery,Minute,,3845.07,10,,,,retail
+TXN01356,2024-07-13,Mombasa,Electronics,Film,,,0,,261,Prime Supply,retail
+,2025-11-13,Nairobi,Grocery,Threat,31,,10,,322,Prime Supply,retail
+TXN01358,2024-05-31,Kisumu,fashion,Responsibility,,4876.01,0,8084.33,,Prime Supply,retail
+,2025-10-02,Nakuru,Groceries,Together,,,15,22715.97,,ABC Ltd,Wholesale
+TXN01360,2024-09-18,Nakuru,Electronics,Letter,10,,N/A,,918,XYZ Traders,Retail
+TXN01361,2025-10-30,Nairobi,electronics,Probably,12,,15,,939,XYZ Traders,VIP
+TXN01362,2024-02-13,Nairobi,Electronics,Oil,2,,0,14306.58,458,ABC Ltd,Wholesale
+TXN01363,2024-10-15,Nakuru,electronics,Customer,,,20,,,XYZ Traders,Wholesale
+,2025-02-14,Nakuru,Fashion,Space,,,15,,,ABC Ltd,Retail
+,2025-05-24,Eldoret,Grocery,Have,49,4515.45,10,,427,Prime Supply,Retail
+TXN01366,2025-10-22,Mombasa,Fashion,Lawyer,7,,,61761.73,803,ABC Ltd,retail
+TXN01367,2024-08-12,Eldoret,Fashion,Possible,,,20,,877,ABC Ltd,Wholesale
+,2025-08-27,Nairobi,Fashion,Reach,21,,15,,,,retail
+,2025-07-12,Nakuru,Groceries,Name,,,15,29715.31,,ABC Ltd,Retail
+TXN01370,2024-04-07,Eldoret,Groceries,Understand,,,N/A,47154.99,,,VIP
+TXN01371,2024-07-08,Nakuru,Fashion,Almost,,,20,,,ABC Ltd,Retail
+,2024-06-15,Kisumu,Groceries,Officer,,,10,93866.06,473,,retail
+TXN01373,2025-08-29,Nakuru,electronics,Church,,,15,,42,,VIP
+TXN01374,2024-09-22,Nairobi,Groceries,Account,44,4408.22,10,54995.95,11,ABC Ltd,Wholesale
+TXN01375,2024-04-12,Nairobi,Fashion,Relationship,14,,N/A,,171,ABC Ltd,Wholesale
+,2024-05-29,Mombasa,Groceries,Tax,44,,N/A,,,Prime Supply,VIP
+TXN01377,2025-09-24,Kisumu,electronics,As,,,10,18936.19,77,,Retail
+TXN01378,2025-04-23,Mombasa,Groceries,Important,,3729.45,,94080.88,38,,Wholesale
+,2025-03-19,Mombasa,Home,Way,,,N/A,18590.38,,Prime Supply,Retail
+TXN01380,2024-07-24,Nairobi,Home,Official,,2857.42,,88220.5,144,XYZ Traders,VIP
+,2025-12-15,Eldoret,Electronics,Issue,27,,N/A,,,ABC Ltd,Retail
+TXN01382,2024-02-24,Nakuru,Grocery,Reveal,11,,N/A,1318.85,452,ABC Ltd,VIP
+,2024-09-24,Kisumu,Home,That,,,15,84209.36,666,ABC Ltd,Wholesale
+TXN01384,2024-10-17,Kisumu,fashion,Design,,,10,99358.37,,Prime Supply,Retail
+TXN01385,2025-04-13,Mombasa,Electronics,Military,,,N/A,,,,VIP
+TXN01386,2024-11-19,Nakuru,Fashion,Attorney,,,5,60534.77,195,,VIP
+TXN01387,2024-04-03,Nairobi,Groceries,Recognize,,,0,,,XYZ Traders,Retail
+TXN01388,2025-04-06,Eldoret,Grocery,Already,25,1048.25,5,75894.19,,,Wholesale
+TXN01389,2025-05-19,Mombasa,Groceries,Relationship,,,20,10479.74,,,retail
+TXN01390,2025-09-09,Nairobi,fashion,Cause,,,N/A,,,XYZ Traders,retail
+TXN01391,2024-12-06,Nairobi,Groceries,Contain,,4093.22,5,91478.13,,XYZ Traders,VIP
+TXN01392,2025-04-02,Nairobi,fashion,Position,,,N/A,,581,XYZ Traders,retail
+TXN01393,2024-07-01,Nakuru,Electronics,Close,11,,N/A,,323,ABC Ltd,Wholesale
+,2024-04-04,Nakuru,fashion,Much,,4103.47,,61784.02,264,ABC Ltd,Retail
+TXN01395,2025-10-18,Nakuru,Home,Face,11,,20,,,,Retail
+TXN01396,2024-08-25,Nakuru,Electronics,Different,,,0,82042.31,75,,Retail
+TXN01397,2024-05-16,Nairobi,Fashion,Worker,12,,5,,552,Prime Supply,Wholesale
+,2024-05-06,Mombasa,electronics,Drug,,,10,16204.44,,Prime Supply,retail
+TXN01399,2024-02-19,Nakuru,Grocery,Reality,,,N/A,46663.7,,ABC Ltd,Wholesale
+TXN01400,2025-05-18,Nairobi,fashion,Throw,,2976.91,15,13213.95,859,ABC Ltd,Retail
+TXN01401,2024-04-26,Nairobi,Grocery,Dog,,,N/A,41383.77,843,Prime Supply,Wholesale
+,2025-09-30,Kisumu,Electronics,Better,4,4961.8,20,,733,,Wholesale
+TXN01403,2025-05-15,Eldoret,electronics,Ball,,2088.34,10,87663.01,,,VIP
+,2025-10-29,Mombasa,Fashion,Idea,,407,20,3605.1,,,VIP
+,2025-04-13,Eldoret,Groceries,Message,11,,15,27130.32,152,Prime Supply,Wholesale
+TXN01406,2025-08-31,Kisumu,Home,Letter,,,20,,140,Prime Supply,Retail
+TXN01407,2025-11-19,Kisumu,electronics,Yard,32,,15,51767.83,,XYZ Traders,Wholesale
+TXN01408,2024-08-01,Nairobi,Groceries,Science,49,,20,,705,,retail
+,2025-10-25,Nakuru,fashion,More,,1022.22,0,15181.67,307,,Retail
+,2025-12-05,Eldoret,electronics,At,,3130.45,10,11354.95,150,Prime Supply,VIP
+,2025-10-25,Kisumu,Groceries,Maybe,,1497.91,N/A,,,ABC Ltd,Wholesale
+TXN01412,2024-03-08,Kisumu,fashion,Alone,47,,,75288.51,,ABC Ltd,Retail
+TXN01413,2025-07-27,Kisumu,Groceries,Source,,4817.27,0,,,ABC Ltd,Retail
+,2024-09-26,Kisumu,Grocery,Start,16,3676.79,0,,43,,Wholesale
+TXN01415,2024-11-16,Nairobi,Grocery,Spring,35,4863.22,5,,308,XYZ Traders,VIP
+,2024-12-29,Kisumu,Electronics,On,,,N/A,,375,ABC Ltd,Retail
+TXN01417,2024-12-09,Mombasa,Electronics,Product,27,590.75,,,,XYZ Traders,VIP
+,2024-06-29,Nairobi,Groceries,Tend,,,20,,,ABC Ltd,Retail
+TXN01419,2025-08-17,Eldoret,Groceries,Score,33,,5,99696.56,,,Retail
+TXN01420,2025-11-07,Nakuru,Home,Cold,,,5,,,ABC Ltd,retail
+TXN01421,2025-06-11,Nairobi,Home,Course,21,4437.45,N/A,,338,XYZ Traders,retail
+TXN01422,2025-11-29,Eldoret,Electronics,Sound,5,876.63,15,,,,retail
+,2024-10-02,Mombasa,Fashion,Size,,,0,,139,Prime Supply,Retail
+TXN01424,2025-02-13,Eldoret,Electronics,Hot,,,5,43927.17,,ABC Ltd,Retail
+,2025-03-05,Kisumu,Grocery,Example,,,5,83223.69,,ABC Ltd,VIP
+TXN01426,2025-08-09,Nairobi,electronics,Television,38,,,,735,,retail
+TXN01427,2025-01-14,Kisumu,Electronics,Money,,3978.07,0,,,,Retail
+TXN01428,2024-05-02,Nakuru,electronics,Opportunity,,2102.65,15,,,,Retail
+TXN01429,2024-03-05,Mombasa,Fashion,Huge,,,5,88891.27,754,XYZ Traders,VIP
+TXN01430,2024-02-25,Mombasa,Home,Long,,1843.19,0,,,ABC Ltd,Wholesale
+TXN01431,2024-09-10,Eldoret,Fashion,Fill,,,10,,,,Wholesale
+TXN01432,2024-03-31,Eldoret,Grocery,Quite,21,1169.43,15,35255.54,657,ABC Ltd,retail
+TXN01433,2025-10-11,Kisumu,fashion,Generation,27,,15,,798,XYZ Traders,Wholesale
+TXN01434,2024-12-23,Kisumu,electronics,Edge,8,,N/A,,440,,Retail
+TXN01435,2024-06-27,Nakuru,Groceries,Million,6,,10,,,,Wholesale
+,2024-03-20,Eldoret,Fashion,Ball,33,,,,,XYZ Traders,Retail
+,2024-09-26,Nairobi,electronics,Near,,3105.87,N/A,,,ABC Ltd,retail
+TXN01438,2024-12-02,Nairobi,Grocery,Toward,14,,0,1410.35,294,XYZ Traders,retail
+TXN01439,2024-10-08,Nairobi,Groceries,Hour,44,,15,,,,Wholesale
+TXN01440,2025-04-28,Nakuru,Fashion,Agreement,25,,N/A,,363,,Retail
+TXN01441,2025-05-20,Kisumu,fashion,Each,30,,0,61785.77,542,,VIP
+,2025-04-06,Nairobi,Groceries,Prove,,,,,,,Wholesale
+TXN01443,2025-06-26,Nairobi,Fashion,Because,,,10,73330.78,118,Prime Supply,Wholesale
+,2025-05-17,Mombasa,Fashion,As,,,,,968,Prime Supply,retail
+TXN01445,2024-07-26,Kisumu,Home,Top,30,,15,55302.2,652,,VIP
+TXN01446,2024-04-18,Nakuru,fashion,Top,37,4744.95,N/A,,914,,retail
+TXN01447,2024-02-13,Kisumu,Fashion,Prepare,,,,65614.74,724,Prime Supply,Retail
+,2025-09-08,Eldoret,fashion,Tend,,,,,979,Prime Supply,retail
+TXN01449,2024-01-25,Mombasa,Grocery,Only,29,1221.83,10,56855.37,,XYZ Traders,Retail
+,2025-12-17,Nairobi,Electronics,Recently,14,,10,23272,,Prime Supply,Retail
+TXN01451,2024-05-27,Eldoret,Electronics,Still,50,3750.68,10,,971,,Wholesale
+TXN01452,2025-03-22,Nairobi,electronics,Them,49,,0,60589.83,,,retail
+TXN01453,2024-04-01,Mombasa,Fashion,Reduce,7,,10,97548.3,,XYZ Traders,Retail
+,2025-03-27,Mombasa,Electronics,Light,13,3419.17,0,,,,Wholesale
+TXN01455,2024-03-19,Nakuru,fashion,At,,,,,95,ABC Ltd,VIP
+TXN01456,2025-06-11,Nairobi,electronics,Them,,,5,22283.81,495,,Retail
+TXN01457,2024-10-12,Eldoret,electronics,Approach,44,,10,27064.99,408,XYZ Traders,retail
+TXN01458,2024-09-17,Eldoret,Home,Special,31,,10,,,Prime Supply,retail
+TXN01459,2024-09-11,Eldoret,Grocery,City,,,5,,231,,retail
+,2025-08-28,Nakuru,Fashion,Past,17,,10,83652.84,354,XYZ Traders,VIP
+TXN01461,2025-07-29,Mombasa,Electronics,Risk,24,,,,,ABC Ltd,retail
+TXN01462,2024-10-05,Mombasa,fashion,Forget,44,3189.03,20,8014.12,,,VIP
+TXN01463,2024-05-19,Kisumu,fashion,Forget,,,N/A,,,,Wholesale
+TXN01464,2025-12-07,Kisumu,Grocery,Degree,11,,10,82349.58,,,VIP
+TXN01465,2024-09-16,Nairobi,Fashion,But,42,,,77303.58,131,Prime Supply,Wholesale
+,2024-08-30,Eldoret,fashion,Hard,13,,0,,71,Prime Supply,VIP
+TXN01467,2025-07-26,Mombasa,Fashion,Head,,1636.74,20,,,ABC Ltd,retail
+TXN01468,2025-05-24,Mombasa,electronics,Work,,,0,53128.22,,Prime Supply,Wholesale
+,2024-03-07,Eldoret,Home,Where,19,,20,,3,ABC Ltd,Retail
+TXN01470,2024-09-25,Mombasa,Grocery,Continue,10,,5,,,ABC Ltd,Retail
+TXN01471,2024-03-29,Eldoret,electronics,Heart,40,1374.35,5,,,ABC Ltd,Retail
+,2025-08-26,Eldoret,Groceries,Imagine,,,10,,,XYZ Traders,VIP
+,2025-10-13,Nakuru,Home,Shake,,,,,,XYZ Traders,VIP
+TXN01474,2025-12-21,Eldoret,fashion,Watch,27,,15,,,XYZ Traders,VIP
+TXN01475,2024-11-16,Nakuru,fashion,What,29,,,96040.71,76,ABC Ltd,Wholesale
+TXN01476,2024-12-13,Kisumu,fashion,Green,,1587.12,20,52654.73,,ABC Ltd,Wholesale
+,2024-07-27,Nairobi,fashion,Anything,43,2886.46,,13829.98,844,,Wholesale
+TXN01478,2025-01-22,Eldoret,Home,Least,,,0,,,ABC Ltd,Retail
+,2024-12-31,Nairobi,Fashion,Thank,,1790.54,5,,51,,VIP
+TXN01480,2024-02-27,Nakuru,Grocery,Explain,37,,0,,,,Retail
+,2025-10-19,Nakuru,Grocery,Sing,,,,,,ABC Ltd,Wholesale
+,2025-02-25,Eldoret,Fashion,Just,,,15,,,ABC Ltd,Wholesale
+TXN01483,2024-07-02,Nairobi,Electronics,Situation,26,3305.15,5,48264.59,931,ABC Ltd,VIP
+TXN01484,2025-09-27,Mombasa,Grocery,Opportunity,26,3510.63,15,,559,Prime Supply,retail
+TXN01485,2024-09-14,Mombasa,fashion,Stand,,,,,878,ABC Ltd,retail
+TXN01486,2025-06-21,Mombasa,Fashion,Report,28,,10,,799,ABC Ltd,Retail
+TXN01487,2025-07-22,Kisumu,electronics,Garden,,,20,49225.57,,,VIP
+TXN01488,2025-02-12,Nairobi,Grocery,Measure,30,,20,98997.74,273,,Wholesale
+,2025-08-27,Kisumu,fashion,Reason,,2261.93,0,16906.97,62,XYZ Traders,Wholesale
+TXN01490,2024-08-22,Mombasa,Electronics,With,10,2482.92,N/A,,,,Wholesale
+,2025-09-11,Kisumu,fashion,Fear,32,1547.45,15,,,ABC Ltd,retail
+TXN01492,2024-03-01,Kisumu,electronics,Former,46,,15,66934.3,956,Prime Supply,Retail
+,2025-05-05,Eldoret,Electronics,Boy,28,,,86757.05,47,,Retail
+TXN01494,2024-08-13,Nairobi,Electronics,Save,49,1532.04,N/A,46770.18,,Prime Supply,VIP
+TXN01495,2025-02-05,Mombasa,fashion,Bag,36,,10,,584,,VIP
+TXN01496,2024-09-08,Nairobi,Home,Toward,18,,20,,216,,retail
+TXN01497,2024-01-25,Eldoret,Groceries,Fund,,,0,,,Prime Supply,Retail
+,2024-06-22,Nairobi,Electronics,Catch,,884.18,20,42509.97,,Prime Supply,Retail
+TXN01499,2024-07-27,Nairobi,Grocery,Pass,13,,20,10730.2,,,retail
